@@ -441,7 +441,7 @@
   ],
   "notes": [
    "【刷新條件】月華羈絆啟動",
-   "【備註】法系為主力，且 3 月光以上考慮。"
+   "【備註】基本不拿。法系為主力，且 3 月光以上考慮。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -511,7 +511,7 @@
    "升級：第2位死亡的友軍會爆炸，造成相當於25%最大生命的魔法傷害。"
   ],
   "notes": [
-   "【備註】四連勝以上，且有一家拿了能改變輸贏經濟期望值打平。一塊戰力基本都拿，髒到一波差距很大。"
+   "【備註】一塊戰力：四連勝以上，且有一家拿了能改變輸贏經濟期望值打平。基本都拿，髒到一波差距很大。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -701,7 +701,7 @@
    "升級：友軍暫時獲得10條不可移除的巨人腰帶。"
   ],
   "notes": [
-   "【備註】三階段：五連勝以上考慮。四階段之後：基本需要戰力 → 無腦拿。"
+   "【備註】兩塊戰力。算強的，四階段也可以拿。可控。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -747,7 +747,8 @@
    "升級：你第一位陣亡的英雄會變成擁有其防禦力的假人，具有1350生命。"
   ],
   "notes": [
-   "【備註】三階段：五連勝以上，且有一名標記可能影響勝負才拿。四階段：若要 D 牌可先拿當 D 一下（約省 0.4 元）。"
+   "【備註】兩塊戰力：三階段：五連勝以上，且有一名標記可能影響勝負才拿。",
+   "四階段：若要 D 牌可先拿當 D 一下省 0.2 元（2D才一神火）。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -794,7 +795,7 @@
   ],
   "notes": [
    "【刷新條件】非「滿裝且無魔力」英雄情境",
-   "【備註】三階段：五連勝以上，且標記對手影響勝負。四階段：基本都能拿。"
+   "【備註】兩塊戰力。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -841,7 +842,7 @@
   ],
   "notes": [
    "【刷新條件】尚未施加燃燒／重創（煉獄啟動除外）",
-   "【備註】基本沒用。"
+   "【備註】沒降治療可拿，有降治療不拿。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -979,7 +980,7 @@
   ],
   "notes": [
    "【刷新條件】棋盤至少 2 名施法者",
-   "【備註】神諭必拿；法師可以考慮。"
+   "【備註】神諭必拿；法師可以考慮；其他人沒用。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -1025,7 +1026,7 @@
    "升級：每有一個前排單位，你最前排中央的英雄獲得6%最大生命。"
   ],
   "notes": [
-   "【備註】很難有機會拿到；版本站位限定太大（若前排單位＝第一排）。"
+   "【備註】越後期人多越強，坦克不是石像鬼可拿，其實蠻硬的。捍衛者拿很強。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -1073,7 +1074,7 @@
   ],
   "notes": [
    "【刷新條件】擁有 2 星的 1／2 費英雄",
-   "【備註】只有二費二可以拿。"
+   "【備註】有四費二後通常不拿；確定誰會升星且能暫時過度一星主C裝可考慮。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -1120,7 +1121,7 @@
    "稜彩（0）：獲得6件暫時的聖光好戰者鎧甲，以及5台移除器。"
   ],
   "notes": [
-   "【備註】三階段：五連勝以上，且標記對手拿了會影響勝負。四／五階段：基本不考慮。"
+   "【備註】兩塊戰力。四／五階段：剛好缺一件關鍵坦裝可拿。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -1166,7 +1167,7 @@
    "升級：獲得暫時性的黎明聖盾。"
   ],
   "notes": [
-   "【備註】三階段：五連勝以上，且標記對手拿了會影響勝負。四／五階段：基本不考慮。"
+   "【備註】兩塊戰力。四/五階段：剛好缺一件關鍵坦裝且對手為物理陣容可拿。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -1209,9 +1210,10 @@
    "獲得1個暫時的生命綻花。"
   ],
   "notes": [
-   "【刷新條件】古木羈絆啟動"
+   "【刷新條件】神樹羈絆啟動",
+   "【備註】兩塊戰力，太爛了，不拿。"
   ],
-  "has_personal_note": false,
+  "has_personal_note": true,
   "official_zh_source": false,
   "icon": "t_shopcardsicon18_combat_tier2.png",
   "effect_en_base": "Gain a temporary Lifeblossom.",
@@ -1231,9 +1233,9 @@
    "獲得1個暫時的石紋樹。"
   ],
   "notes": [
-   "【刷新條件】古木羈絆啟動"
+   "【刷新條件】兩塊戰力，太爛了，不拿。"
   ],
-  "has_personal_note": false,
+  "has_personal_note": true,
   "official_zh_source": false,
   "icon": "t_shopcardsicon18_combat_tier2.png",
   "effect_en_base": "Gain a temporary Stonebark Tree.",
@@ -1276,9 +1278,10 @@
    "本場戰鬥獲得熊之原始增益。"
   ],
   "notes": [
-   "【刷新條件】原始羈絆啟動"
+   "【刷新條件】原始羈絆啟動",
+   "【備註】熊是處決，希維爾可拿。"
   ],
-  "has_personal_note": false,
+  "has_personal_note": true,
   "official_zh_source": false,
   "icon": "t_shopcardsicon18_combat_tier2.png",
   "effect_en_base": "Gain the Bear Primal buff for this combat.",
@@ -1460,7 +1463,7 @@
    "升級：第一個陣亡的2坦克會生成1個攜帶其道具的訓練假人。"
   ],
   "notes": [
-   "【備註】三階段五連勝以上考慮；四階段單坦陣容考慮。"
+   "【備註】三塊戰力。四階段單坦陣容考慮。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -1507,7 +1510,7 @@
    "升級：獲得1副暫時的縮小手套。"
   ],
   "notes": [
-   "【備註】基本不考慮；除非 8 等 stable 考慮上九（4／5 階段一波血值得）。"
+   "【備註】太爛了基本不考慮；除非 8 等 stable 考慮上九（4／5 階段一波血值得）。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -1619,8 +1622,8 @@
    "稜彩（0）：獨自一排的英雄增加100%生命和150%傷害增幅。"
   ],
   "notes": [
-   "【刷新條件】古木羈絆未啟動；月華羈絆未啟動；綠父羈絆未啟動",
-   "【備註】三階段五連勝考慮；四階段後無腦拿。"
+   "【刷新條件】神木羈絆未啟動；月華羈絆未啟動；樹人羈絆未啟動",
+   "【備註】三塊強戰力，四階段後無腦拿。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -1666,9 +1669,10 @@
    "本場戰鬥獲得虎之原始增益。"
   ],
   "notes": [
-   "【刷新條件】原始羈絆啟動"
+   "【刷新條件】原始羈絆啟動",
+   "【備註】虎是攻速，可考慮拿。"
   ],
-  "has_personal_note": false,
+  "has_personal_note": true,
   "official_zh_source": false,
   "icon": "t_shopcardsicon18_combat_tier2.png",
   "effect_en_base": "Gain the Tiger Primal buff for this combat.",
@@ -1711,9 +1715,10 @@
    "本場戰鬥獲得龜之原始增益。"
   ],
   "notes": [
-   "【刷新條件】原始羈絆啟動"
+   "【刷新條件】原始羈絆啟動",
+   "【備註】龜是回血，有大坦可考慮拿。"
   ],
-  "has_personal_note": false,
+  "has_personal_note": true,
   "official_zh_source": false,
   "icon": "t_shopcardsicon18_combat_tier2.png",
   "effect_en_base": "Gain the Turtle Primal buff for this combat.",
@@ -2242,7 +2247,7 @@
    "升級：本次重抽不會出現神火。獲得6金錢。"
   ],
   "notes": [
-   "【備註】除了後期，其他時段必拿。"
+   "【備註】根本沒什麼見過。前期出了必拿。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -2335,7 +2340,7 @@
   ],
   "notes": [
    "【刷新條件】至少 2 名 1 星英雄",
-   "【備註】不拿是棒槌。"
+   "【備註】基本必拿。除非版面超強且一星單位在後排。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -2358,7 +2363,7 @@
    "升級：本回合下一個出售的英雄，以250%金錢賣出。"
   ],
   "notes": [
-   "【備註】不是死亡邊緣 → 必拿。"
+   "【備註】不是死亡邊緣 → 必拿。轉陣賣三費二四費二也行。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -2404,7 +2409,7 @@
    "升級（3）：擲出兩顆六面骰。獲得等同於骰數的金錢。"
   ],
   "notes": [
-   "【備註】必拿。"
+   "【備註】必拿，期望值1.5。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -2518,7 +2523,7 @@
    "升級：獲得12經驗值。"
   ],
   "notes": [
-   "【備註】不是在該等級待到死 → 必拿。"
+   "【備註】七上八必拿，八看能不能上九，若血量緊湊局不拿。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -2542,7 +2547,8 @@
   ],
   "notes": [
    "【刷新條件】至少有 3 個散件",
-   "【備註】裝備很爛時可考慮（尤其沒有青龍刀／羊刀組件）；沒有佔到神器相關陣容很容易被懲罰，要小心。"
+   "【備註】裝超級多或裝備很爛時可考慮（尤其沒有青龍刀／羊刀組件）；若已有關鍵核心裝務必慎拿，沒有佔到神器相關陣容很容易被懲罰，要小心。",
+   "TFTable: https://tftable.cc/item-tierlist"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -2566,7 +2572,7 @@
   ],
   "notes": [
    "【刷新條件】金幣足夠（購買條件）",
-   "【備註】必拿。"
+   "【備註】必拿，先賣牌再拿，最差拿重鑄。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -2613,7 +2619,7 @@
    "升級：16名英雄死亡後，獲得1個組件鐵砧。"
   ],
   "notes": [
-   "【備註】建議拿。"
+   "【備註】必拿，2~3回合開，3塊一組件。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -2636,7 +2642,7 @@
   ],
   "notes": [
    "【刷新條件】候補席至少 1 個散件",
-   "【備註】建議拿。"
+   "【備註】可考慮拿，可控，通常坦組件比較不容易歪。真的歪了可留意打撈桶。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -2752,7 +2758,7 @@
    "升級（2）：獲得3件消耗品，能增加永久物攻或攻速。"
   ],
   "notes": [
-   "【備註】不拿是棒槌。"
+   "【備註】必拿。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -2867,7 +2873,7 @@
    "升級：獲得1瓶暫時、可裝備的聖光爆炸藥水。"
   ],
   "notes": [
-   "【備註】四連勝以上，標記有一名拿了會影響勝負可考慮。"
+   "【備註】一塊戰力。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -2890,7 +2896,7 @@
    "升級：獲得1瓶暫時、可裝備的聖光生命藥水。"
   ],
   "notes": [
-   "【備註】四連勝以上，標記有一名拿了會影響勝負可考慮。"
+   "【備註】一塊戰力。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -2936,7 +2942,7 @@
    "升級：獲得1瓶暫時、可裝備的聖光魔力藥水。"
   ],
   "notes": [
-   "【備註】三階段：四連勝以上，標記有一名拿了會影響勝負可考慮。四階段：基本無腦拿。"
+   "【備註】一塊戰力。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -3071,7 +3077,7 @@
   ],
   "notes": [
    "【刷新條件】至少缺少 10 點玩家生命",
-   "【備註】個人認為很有錢就拿。"
+   "【備註】個人認為很有錢就拿，排名遊戲，兩塊錢有機會能買到影響一分的機會，who knows。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -3259,7 +3265,7 @@
   ],
   "notes": [
    "【刷新條件】女巫集會羈絆啟動",
-   "【備註】能多打 10 層以上都可以拿（10 層約等於 1 元）。"
+   "【備註】能多打 10 層以上都可以拿（10 層約等於 1 元），輸了也會有。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -3381,7 +3387,7 @@
   ],
   "notes": [
    "【刷新條件】宿敵羈絆啟動",
-   "【備註】太貴（一層約 0.25 元）；雷葛而不拿，螳螂卡關鍵層數才考慮。"
+   "【備註】太貴（一層約 0.25 元）；雷葛爾不拿，螳螂卡關鍵層數才考慮。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -3404,7 +3410,7 @@
   ],
   "notes": [
    "【刷新條件】短連敗中",
-   "【備註】除非強到離譜，不然不可能拿（必勝才考慮）。"
+   "【備註】必勝才考慮拿，不拿不會錯（c.f. 鮮血與鋼鐵）。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -3497,7 +3503,7 @@
    "升級：每4秒，你的英雄有15%機率掉落1金錢。"
   ],
   "notes": [
-   "【備註】能打超過 18 秒再拿。"
+   "【備註】能打超過 18 秒再拿，有大坦、質量夠也會增加期望值，劣勢很容易虧。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -3592,7 +3598,7 @@
   ],
   "notes": [
    "【刷新條件】沒有 3 星英雄；棋盤價值介於 12～20；短連勝中；準備階段前 15 秒內",
-   "【備註】不拿是棒槌。"
+   "【備註】賭陣跑路也舒服，運營就是舒服，錢夠多可直上七再補抽。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -3705,7 +3711,7 @@
    "升級：本回合前8次刷新商店時，最低費的英雄升到2星。"
   ],
   "notes": [
-   "【備註】賭狗或想反打 → 建議拿。"
+   "【備註】一二費賭狗必拿，記得數1~6。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -3729,7 +3735,7 @@
   ],
   "notes": [
    "【刷新條件】煉獄羈絆啟動",
-   "【備註】不是死亡回血 → 必拿。"
+   "【備註】 必拿。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -3864,7 +3870,7 @@
    "升級：每次擊殺時有60%機率獲得一次重抽機會，若獲勝則額外獲得1次。"
   ],
   "notes": [
-   "【備註】能殺三隻、質量不錯 → 必拿。"
+   "【備註】能殺三隻、質量不錯才拿。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -3887,7 +3893,7 @@
   ],
   "notes": [
    "【刷新條件】裂谷野獸羈絆啟動",
-   "【備註】不是玩純野怪 → 不拿。"
+   "【備註】不是玩純野怪不拿，純野怪必拿。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
@@ -3910,7 +3916,7 @@
    "升級：16秒後，每有一名友方英雄存活，獲得1次重抽。"
   ],
   "notes": [
-   "【備註】有坦裝必拿；有質量也必拿。"
+   "【備註】活兩隻就賺，有坦裝必拿；有質量也必拿。"
   ],
   "has_personal_note": true,
   "official_zh_source": true,
