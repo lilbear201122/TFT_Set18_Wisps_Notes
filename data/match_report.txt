@@ -1,0 +1,13 @@
+EN total: 176, ZH total: 170
+Matched: 169
+Unmatched EN (need fresh zh translation): 7
+  [Combat] Flow | cost= | 4-2 to 10-1 | Your champions are Unstoppable and gain 15% Attack Speed for 10 seconds. Your champions are Unstoppable and gain 15% Attack Speed for 15 seconds.
+  [Combat] Potted Lifebloom | cost=2 | 3-1 to 4-7 | Gain a temporary Lifeblossom. 
+  [Combat] Potted Stonebark | cost=2 | 3-1 to 4-7 | Gain a temporary Stonebark Tree. 
+  [Combat] Regeneration | cost=2 | 3-5 to 4-7 | Your team heals 1% max Health per second. Your team heals 2% max Health per second.
+  [Combat] Bear's Visit | cost=3 | 3-5 to 5-7 | Gain the Bear Primal buff for this combat. 
+  [Combat] Tiger's Visit | cost=3 | 3-5 to 5-7 | Gain the Tiger Primal buff for this combat. 
+  [Combat] Turtle's Visit | cost=3 | 3-5 to 5-7 | Gain the Turtle Primal buff for this combat. 
+
+Unmatched ZH (in old doc but not in metatft): 1
+  [戰鬥] 回復 | cost=3 | 3-5 ~ 4-7 | ['我方隊伍每秒回復1%最大生命。', '升級：我方隊伍每秒回復2%最大生命。']

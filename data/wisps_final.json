@@ -1,0 +1,4031 @@
+[
+ {
+  "name": "有絲分裂",
+  "name_en": "Mitosis",
+  "category": "英雄",
+  "category_en": "Champion",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "2-1 ~ 2-7",
+  "round_range_en": "2-1 to 2-7",
+  "effects": [
+   "獲得1件小小英雄複製裝置。"
+  ],
+  "notes": [
+   "【備註】必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_champion_tier1.png",
+  "effect_en_base": "Gain a Tiny Champion Duplicator.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "激烈對決",
+  "name_en": "Heated Rivalry",
+  "category": "英雄",
+  "category_en": "Champion",
+  "rarity": "白銀",
+  "cost": "3",
+  "round_range": "2-1 ~ 2-7",
+  "round_range_en": "2-1 to 2-7",
+  "effects": [
+   "獲得一個雷葛爾或卡力斯。他們獲得3參與擊殺。",
+   "升級：獲得1個雷葛爾或卡力斯。他們獲得7次參與擊殺。"
+  ],
+  "notes": [
+   "【備註】必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_champion_tier1.png",
+  "effect_en_base": "Gain a Rengar or a Kha'Zix. They gain 3 takedowns.",
+  "effect_en_blossom": "Gain a Rengar or a Kha'Zix. They gain 7 takedowns.",
+  "conditions_en": ""
+ },
+ {
+  "name": "迷途旅人",
+  "name_en": "Lost Travelers",
+  "category": "英雄",
+  "category_en": "Champion",
+  "rarity": "白銀",
+  "cost": "3",
+  "round_range": "2-1 ~ 2-7",
+  "round_range_en": "2-1 to 2-7",
+  "effects": [
+   "獲得價值3金錢的隨機英雄。",
+   "升級（4）：獲得價值4金錢的隨機英雄。"
+  ],
+  "notes": [
+   "【備註】必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_champion_tier1.png",
+  "effect_en_base": "Gain 3 gold worth of random champions.",
+  "effect_en_blossom": "Gain 4 gold worth of random champions.",
+  "conditions_en": ""
+ },
+ {
+  "name": "學徒",
+  "name_en": "Apprentice",
+  "category": "英雄",
+  "category_en": "Champion",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "2-1 ~ 2-7",
+  "round_range_en": "2-1 to 2-7",
+  "effects": [
+   "獲得1名隨機2星1費英雄。"
+  ],
+  "notes": [
+   "【備註】必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_champion_tier2.png",
+  "effect_en_base": "Gain a random 2-star 1-cost champion.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "大傢伙",
+  "name_en": "Big Guns",
+  "category": "英雄",
+  "category_en": "Champion",
+  "rarity": "黃金",
+  "cost": "8",
+  "round_range": "4-2 ~ 4-7",
+  "round_range_en": "4-2 to 4-7",
+  "effects": [
+   "獲得2個隨機1星4費英雄。"
+  ],
+  "notes": [
+   "【備註】必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_champion_tier2.png",
+  "effect_en_base": "Gain 2 random 1-star 4-cost champions.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "旅行者",
+  "name_en": "Journeyman",
+  "category": "英雄",
+  "category_en": "Champion",
+  "rarity": "黃金",
+  "cost": "6",
+  "round_range": "2-1 ~ 3-4",
+  "round_range_en": "2-1 to 3-4",
+  "effects": [
+   "獲得1名隨機2星2費英雄。"
+  ],
+  "notes": [
+   "【備註】必拿（除非場上／候補都已經 2 星、沒地方上）。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_champion_tier2.png",
+  "effect_en_base": "Gain a random 2-star 2-cost champion.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "三個我",
+  "name_en": "Three Me",
+  "category": "英雄",
+  "category_en": "Champion",
+  "rarity": "黃金",
+  "cost": "9",
+  "round_range": "3-1 ~ 4-1",
+  "round_range_en": "3-1 to 4-1",
+  "effects": [
+   "獲得1名隨機2星3費英雄。"
+  ],
+  "notes": [
+   "【備註】必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_champion_tier2.png",
+  "effect_en_base": "Gain a random 2-star 3-cost champion.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "繁殖",
+  "name_en": "Propagate",
+  "category": "英雄",
+  "category_en": "Champion",
+  "rarity": "黃金",
+  "cost": "2",
+  "round_range": "2-1 ~ 4-1",
+  "round_range_en": "2-1 to 4-1",
+  "effects": [
+   "獲得第一個陣亡友方英雄的複製體。"
+  ],
+  "notes": [
+   "【備註】三費關鍵卡可以拿（例：菲艾、雷葛爾、卡力斯、赫克林）。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_champion_tier2.png",
+  "effect_en_base": "Gain a copy of the first allied champion to die.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "森林雙子",
+  "name_en": "Forest Twins",
+  "category": "英雄",
+  "category_en": "Champion",
+  "rarity": "黃金",
+  "cost": "4",
+  "round_range": "2-1 ~ 2-7",
+  "round_range_en": "2-1 to 2-7",
+  "effects": [
+   "獲得2個你沒有的2費英雄的複製體。",
+   "升級（5）：獲得3個你沒有的2費英雄的複製體。"
+  ],
+  "notes": [
+   "【備註】必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_champion_tier2.png",
+  "effect_en_base": "Gain 2 copies of a 2-cost champion you don't have.",
+  "effect_en_blossom": "Gain 3 copies of a 2-cost champion you don't have.",
+  "conditions_en": ""
+ },
+ {
+  "name": "日輝之禮",
+  "name_en": "Solar Gift",
+  "category": "英雄",
+  "category_en": "Champion",
+  "rarity": "黃金",
+  "cost": "6",
+  "round_range": "2-1 ~ 3-4",
+  "round_range_en": "2-1 to 3-4",
+  "effects": [
+   "獲得1個雷歐娜、史瓦妮及1個凱爾",
+   "升級（4）：獲得1個雷歐娜、1個史瓦妮及1個凱爾"
+  ],
+  "notes": [
+   "【刷新條件】日輝羈絆啟動",
+   "【備註】必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_champion_tier2.png",
+  "effect_en_base": "Gain a Leona, Sejuani, and Kayle",
+  "effect_en_blossom": "",
+  "conditions_en": "Have Solar active"
+ },
+ {
+  "name": "老鼠之地",
+  "name_en": "Field of Mice",
+  "category": "英雄",
+  "category_en": "Champion",
+  "rarity": "黃金",
+  "cost": "8",
+  "round_range": "3-1 ~ 4-1",
+  "round_range_en": "3-1 to 4-1",
+  "effects": [
+   "上回合每部署1個不同的1費單位，便獲得1件小小英雄複製裝置。",
+   "升級：上回合每部署1個不同的1費英雄，便獲得1件小小複製裝置和1金錢。"
+  ],
+  "notes": [
+   "【刷新條件】上場戰鬥上陣 5 名不同 1 費英雄",
+   "【備註】賭一費再拿；或能直接三星一個有裝的一費卡再拿。例：三神三星雷克薩、小蘭、小紅。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_champion_tier2.png",
+  "effect_en_base": "Gain a Tiny Champion Duplicator for each unique one-cost fielded last round.",
+  "effect_en_blossom": "Gain a Tiny Duplicator and a gold for each unique 1-cost champion you fielded last round.",
+  "conditions_en": "Have fielded 5 1-cost champions last combat"
+ },
+ {
+  "name": "森林嚮導",
+  "name_en": "Forest Guide",
+  "category": "英雄",
+  "category_en": "Champion",
+  "rarity": "稜彩",
+  "cost": "5",
+  "round_range": "2-1 ~ 2-7",
+  "round_range_en": "2-1 to 2-7",
+  "effects": [
+   "獲得1名隨機4費英雄。"
+  ],
+  "notes": [
+   "【備註】沒方向時可拿；或拿了不虧利息才拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_champion_tier3.png",
+  "effect_en_base": "Gain a random 4-cost champion.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "宗師",
+  "name_en": "Grandmaster",
+  "category": "英雄",
+  "category_en": "Champion",
+  "rarity": "稜彩",
+  "cost": "18",
+  "round_range": "6-1 ~ 10-1",
+  "round_range_en": "6-1 to 10-1",
+  "effects": [
+   "獲得1名隨機2星5費英雄。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_champion_tier3.png",
+  "effect_en_base": "Gain a random 2-star 5-cost champion.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "開小號",
+  "name_en": "Smurfing",
+  "category": "英雄",
+  "category_en": "Champion",
+  "rarity": "稜彩",
+  "cost": "7",
+  "round_range": "3-5 ~ 4-1",
+  "round_range_en": "3-5 to 4-1",
+  "effects": [
+   "隨機獲得1名隨機5費英雄。",
+   "升級（6）：獲得1名隨機5費英雄。"
+  ],
+  "notes": [
+   "【備註】建議拿；2 元買隨機五費這版本值得。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_champion_tier3.png",
+  "effect_en_base": "Gain a random 5 cost champion.",
+  "effect_en_blossom": "Gain a random 5-cost champion.",
+  "conditions_en": ""
+ },
+ {
+  "name": "預言英雄",
+  "name_en": "Hero Of Prophecy",
+  "category": "英雄",
+  "category_en": "Champion",
+  "rarity": "稜彩",
+  "cost": "35",
+  "round_range": "6-1 ~ 10-1",
+  "round_range_en": "6-1 to 10-1",
+  "effects": [
+   "獲得1名5費英雄。之後每回合都會獲得該英雄，直到對戰結束。"
+  ],
+  "notes": [
+   "【刷新條件】至少持有 35 金幣；生命高於 50；等級 ≥ 10"
+  ],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_champion_tier3.png",
+  "effect_en_base": "Gain a 5-cost champion. Gain them again each round FOREVER.",
+  "effect_en_blossom": "",
+  "conditions_en": "Have at least 35 gold, Be above 50 health, Be level 10 or above"
+ },
+ {
+  "name": "長老圈",
+  "name_en": "Circle of Elders",
+  "category": "英雄",
+  "category_en": "Champion",
+  "rarity": "稜彩",
+  "cost": "45",
+  "round_range": "6-1 ~ 10-1",
+  "round_range_en": "6-1 to 10-1",
+  "effects": [
+   "獲得所有5費英雄各1名。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_champion_tier3.png",
+  "effect_en_base": "Gain one of each 5-cost champion.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "樹皮護甲",
+  "name_en": "Bark Armor",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "0",
+  "round_range": "2-1 ~ 2-7",
+  "round_range_en": "2-1 to 2-7",
+  "effects": [
+   "我方英雄獲得150護盾，持續10秒。",
+   "升級：我方英雄獲得225護盾，持續10秒。"
+  ],
+  "notes": [
+   "【刷新條件】需有連勝或連敗（非平手 streak）",
+   "【備註】必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "Your champions gain 150 shield for 10 seconds.",
+  "effect_en_blossom": "Your champions gain 225 shield for 10 seconds.",
+  "conditions_en": "Be on a win or loss streak"
+ },
+ {
+  "name": "風湧",
+  "name_en": "Flow",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "3",
+  "round_range": "4-2 ~ 10-1",
+  "round_range_en": "4-2 to 10-1",
+  "effects": [
+   "我方英雄進入無人能擋狀態，增加15%攻速，持續10秒。",
+   "升級：我方英雄進入無人能擋狀態，增加15%攻速，持續15秒。"
+  ],
+  "notes": [
+   "【備註】3 元太貴；很需要戰力，或 8 等打到掛 → 建議拿。上九盡量跳。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "Your champions are Unstoppable and gain 15% Attack Speed for 10 seconds.",
+  "effect_en_blossom": "Your champions are Unstoppable and gain 15% Attack Speed for 15 seconds.",
+  "conditions_en": ""
+ },
+ {
+  "name": "找到朋友了",
+  "name_en": "Found Friend",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "0",
+  "round_range": "2-1 ~ 2-7",
+  "round_range_en": "2-1 to 2-7",
+  "effects": [
+   "獲得1個持有巨人腰帶的暫時性訓練假人。",
+   "升級：獲得1個持有日炎斗篷的訓練假人。"
+  ],
+  "notes": [
+   "【刷新條件】需有連勝或連敗（非平手 streak）",
+   "【備註】必拿（除了連敗）。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "Gain a temporary Training Dummy with a Giant's Belt.",
+  "effect_en_blossom": "Gain a Training Dummy with a Sunfire Cape.",
+  "conditions_en": "Be on a win or loss streak"
+ },
+ {
+  "name": "月升",
+  "name_en": "Moonrise",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "2",
+  "round_range": "3-5 ~ 5-7",
+  "round_range_en": "3-5 to 5-7",
+  "effects": [
+   "8秒後，月光使者的效果提升100%。",
+   "升級：8秒後，月光使者的效果提升175%。"
+  ],
+  "notes": [
+   "【刷新條件】月華羈絆啟動",
+   "【備註】法系為主力，且 3 月光以上考慮。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "After 8 seconds, increase Lunar's effects by 100%.",
+  "effect_en_blossom": "After 8 seconds, increase Lunar's effects by 175%.",
+  "conditions_en": "Have Lunar active"
+ },
+ {
+  "name": "豐沛能量",
+  "name_en": "Prolific Power",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "0",
+  "round_range": "4-2 ~ 10-1",
+  "round_range_en": "4-2 to 10-1",
+  "effects": [
+   "你的英雄獲得8%物攻與魔攻。",
+   "升級：你的英雄獲得15%物攻與魔攻。"
+  ],
+  "notes": [
+   "【刷新條件】金幣少於 10",
+   "【備註】想上九 → 直接拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "Your champions gain 8% Attack Damage and Ability Power.",
+  "effect_en_blossom": "Your champions gain 15% Attack Damage and Ability Power.",
+  "conditions_en": "Have under 10 gold"
+ },
+ {
+  "name": "蒼翠活力",
+  "name_en": "Verdant Vitality",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "0",
+  "round_range": "4-2 ~ 10-1",
+  "round_range_en": "4-2 to 10-1",
+  "effects": [
+   "我方英雄獲得100生命。",
+   "升級：你的英雄獲得175生命。"
+  ],
+  "notes": [
+   "【刷新條件】金幣少於 10"
+  ],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "Your champions gain 100 Health.",
+  "effect_en_blossom": "Your champions gain 175 Health.",
+  "conditions_en": "Have under 10 gold"
+ },
+ {
+  "name": "大爆炸",
+  "name_en": "Big Boom",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "3-1 ~ 4-1",
+  "round_range_en": "3-1 to 4-1",
+  "effects": [
+   "第一個死亡的友軍會爆炸，造成相當於25%最大生命的魔法傷害。",
+   "升級：第2位死亡的友軍會爆炸，造成相當於25%最大生命的魔法傷害。"
+  ],
+  "notes": [
+   "【備註】四連勝以上，且有一家拿了能改變輸贏才拿；其他情況不拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "The first ally to die explodes, dealing 25% Max Health magic damage.",
+  "effect_en_blossom": "The first 2 allies to die explode, dealing 25% Max Health magic damage.",
+  "conditions_en": ""
+ },
+ {
+  "name": "借來的裝備",
+  "name_en": "Borrowed Gear",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "3-1 ~ 4-7",
+  "round_range_en": "3-1 to 4-7",
+  "effects": [
+   "一名英雄獲得一件暫時的推薦道具。",
+   "升級：一名英雄獲得一件暫時的推薦道具並增加250生命。"
+  ],
+  "notes": [
+   "【備註】四連勝以上，標記有一名拿了會影響勝負可考慮；記得上下怪控制給裝。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "A champion gains a temporary recommended item.",
+  "effect_en_blossom": "A champion gains a temporary recommended item and 250 Health.",
+  "conditions_en": ""
+ },
+ {
+  "name": "變大吧",
+  "name_en": "Hugify",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "3-1 ~ 4-1",
+  "round_range_en": "3-1 to 4-1",
+  "effects": [
+   "我方生命值最高的單位變大，增加350生命。",
+   "升級：生命最高的我方單位變大，增加600生命。",
+   "稜彩（0）：我方10個生命最高的單位變大，增加2500生命。"
+  ],
+  "notes": [
+   "【備註】四連勝以上才考慮（有一標記勝負未知）。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "Your highest Health unit grows, gaining 350 Health.",
+  "effect_en_blossom": "Your highest Health unit grows, gaining 600 Health.",
+  "conditions_en": ""
+ },
+ {
+  "name": "蜂鳥",
+  "name_en": "Hummingbird",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "3-1 ~ 4-1",
+  "round_range_en": "3-1 to 4-1",
+  "effects": [
+   "攻速最高的我方單位縮小，增加20%攻速。",
+   "升級：攻速最高的我方單位縮小，增加35%攻速。",
+   "稜彩（0）：攻速最高的10個我方單位縮小，增加100%攻速。"
+  ],
+  "notes": [
+   "【備註】四連勝以上才考慮（有一標記勝負未知）。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "Your highest Attack Speed unit shrinks, gaining 20% Attack Speed.",
+  "effect_en_blossom": "Your highest Attack Speed unit shrinks, gaining 35% Attack Speed.",
+  "conditions_en": ""
+ },
+ {
+  "name": "降雨",
+  "name_en": "Rain",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "3-1 ~ 4-7",
+  "round_range_en": "3-1 to 4-7",
+  "effects": [
+   "我方隊伍獲得1魔力回復。",
+   "升級：我方隊伍魔力獲得2魔力回復。"
+  ],
+  "notes": [
+   "【備註】三階段：四連勝，標記有一名拿了會影響勝負可考慮。四階段：基本可無腦拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "Your team gains 1 Mana Regen.",
+  "effect_en_blossom": "Your team gains 2 Mana Regen.",
+  "conditions_en": ""
+ },
+ {
+  "name": "隱密行動",
+  "name_en": "Stealthy",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "4-2 ~ 5-7",
+  "round_range_en": "4-2 to 5-7",
+  "effects": [
+   "我方最強大的2個鬥士或刺客無法被指定，持續6秒。",
+   "升級：2後排的隨機英雄會在10秒內變為無法被指定。"
+  ],
+  "notes": [
+   "【備註】可能有特殊站位（可以研究）。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "Your 2 strongest Fighters or Assassins are untargetable for 6 seconds.",
+  "effect_en_blossom": "2 random champions on the back row are untargetable for 10 seconds.",
+  "conditions_en": ""
+ },
+ {
+  "name": "殘破護甲",
+  "name_en": "Tattered Armor",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "3-5 ~ 4-7",
+  "round_range_en": "3-5 to 4-7",
+  "effects": [
+   "對敵軍造成30%削抗與破甲效果，持續10秒。",
+   "升級：對敵軍造成30%削抗與破甲效果，持續15秒。",
+   "稜彩（0）：對敵軍造成90%削抗與破甲效果，持續45秒。"
+  ],
+  "notes": [
+   "【刷新條件】尚未施加粉碎／碎裂",
+   "【備註】缺減抗就拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "30% Shred and Sunder enemies for 10 seconds.",
+  "effect_en_blossom": "30% Shred and Sunder enemies for 15 seconds.",
+  "conditions_en": "Not already applying Shred or Sunder"
+ },
+ {
+  "name": "究極飛昇",
+  "name_en": "Ultra Ascension",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "3-1 ~ 4-1",
+  "round_range_en": "3-1 to 4-1",
+  "effects": [
+   "25秒後，友軍獲得300%傷害增幅。",
+   "升級：23秒後，友軍獲得300%傷害增幅。",
+   "稜彩（1）：12秒後，友軍獲得300%傷害增幅。"
+  ],
+  "notes": [
+   "【備註】四連勝以上才考慮（有一標記勝負未知）。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "After 25 seconds, allies gain 300% Damage Amp.",
+  "effect_en_blossom": "After 23 seconds, allies gain 300% Damage Amp.",
+  "conditions_en": ""
+ },
+ {
+  "name": "腰帶多多",
+  "name_en": "Bunch-o'-Belts",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "2",
+  "round_range": "3-5 ~ 4-7",
+  "round_range_en": "3-5 to 4-7",
+  "effects": [
+   "友軍暫時獲得7條不可移除的巨人腰帶。",
+   "升級：友軍暫時獲得10條不可移除的巨人腰帶。"
+  ],
+  "notes": [
+   "【備註】三階段：五連勝以上考慮。四階段之後：基本需要戰力 → 無腦拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "Your allies gain 7 temporary, non-removable Giant's Belts.",
+  "effect_en_blossom": "Your allies gain 10 temporary, non-removable Giant's Belts.",
+  "conditions_en": ""
+ },
+ {
+  "name": "天降雷霆",
+  "name_en": "Lightning Strike",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "2",
+  "round_range": "4-2 ~ 5-7",
+  "round_range_en": "4-2 to 5-7",
+  "effects": [
+   "對所有敵軍造成10%最大生命的真實傷害。",
+   "升級：對所有敵軍造成18%最大生命的真實傷害。"
+  ],
+  "notes": [
+   "【備註】需要戰力就拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "Deal 10% Max Health true damage to all enemies.",
+  "effect_en_blossom": "Deal 18% Max Health true damage to all enemies.",
+  "conditions_en": ""
+ },
+ {
+  "name": "石化假人",
+  "name_en": "Petrified Dummy",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "2",
+  "round_range": "3-1 ~ 4-7",
+  "round_range_en": "3-1 to 4-7",
+  "effects": [
+   "你第一位陣亡的英雄會變成擁有其防禦力的假人，具有900生命。",
+   "升級：你第一位陣亡的英雄會變成擁有其防禦力的假人，具有1350生命。"
+  ],
+  "notes": [
+   "【備註】三階段：五連勝以上，且有一名標記可能影響勝負才拿。四階段：若要 D 牌可先拿當 D 一下（約省 0.4 元）。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "Your first champion to die turns into a 900 Health dummy with their defenses.",
+  "effect_en_blossom": "Your first champion to die turns into a 1350 Health dummy with their defenses.",
+  "conditions_en": ""
+ },
+ {
+  "name": "石化護盾",
+  "name_en": "Petrify Shields",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "2",
+  "round_range": "4-2 ~ 4-7；6-1 ~ 10-1",
+  "round_range_en": "4-2 to 4-7, 6-1 to 10-1",
+  "effects": [
+   "緩速敵軍10%，並使其護盾降低0.8，持續10秒。",
+   "升級：緩速敵軍10%，並使其護盾降低0.7，持續10秒。"
+  ],
+  "notes": [
+   "【備註】需要戰力就拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "10% Slow enemies and reduce their shields by 20% for 10 seconds.",
+  "effect_en_blossom": "10% Slow enemies and reduce their shields by 30% for 10 seconds.",
+  "conditions_en": ""
+ },
+ {
+  "name": "加速",
+  "name_en": "Quicken",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "2",
+  "round_range": "3-5 ~ 4-7",
+  "round_range_en": "3-5 to 4-7",
+  "effects": [
+   "施放技能時，我方英雄提升30%攻速，持續4秒。",
+   "升級：施放技能時，我方英雄提升40%攻速，持續5秒。"
+  ],
+  "notes": [
+   "【刷新條件】非「滿裝且無魔力」英雄情境",
+   "【備註】三階段：五連勝以上，且標記對手影響勝負。四階段：基本都能拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "On cast, your champions gain 30% Attack Speed for 4 seconds.",
+  "effect_en_blossom": "On cast, your champions gain 40% Attack Speed for 5 seconds.",
+  "conditions_en": "Not for fully itemised manaless champions"
+ },
+ {
+  "name": "堅如磐石",
+  "name_en": "Resistant",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "2",
+  "round_range": "4-2 ~ 10-1",
+  "round_range_en": "4-2 to 10-1",
+  "effects": [
+   "坦克承受的傷害減少10。",
+   "升級：坦克承受的傷害減少18。"
+  ],
+  "notes": [
+   "【備註】多坦克陣容再考慮（承受傷害 CD 不知道有沒有修）。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "Tanks reduce instances of incoming damage by 10.",
+  "effect_en_blossom": "Tanks reduce instances of incoming damage by 18.",
+  "conditions_en": ""
+ },
+ {
+  "name": "日炎之術",
+  "name_en": "Sunfire Sorcery",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "2",
+  "round_range": "3-5 ~ 4-7",
+  "round_range_en": "3-5 to 4-7",
+  "effects": [
+   "燃燒並重創敵軍，持續10秒。",
+   "升級：燃燒並重創敵軍，持續15秒。"
+  ],
+  "notes": [
+   "【刷新條件】尚未施加燃燒／重創（煉獄啟動除外）",
+   "【備註】基本沒用。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "Burn and Wound enemies for 10 seconds.",
+  "effect_en_blossom": "Burn and Wound enemies for 15 seconds.",
+  "conditions_en": "Not already applying Burn or Wound, unless Inferno is active"
+ },
+ {
+  "name": "荊棘纏身",
+  "name_en": "Wrapped In Thorns",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "白銀",
+  "cost": "2",
+  "round_range": "3-5 ~ 10-1",
+  "round_range_en": "3-5 to 10-1",
+  "effects": [
+   "我方坦克每4秒會將所受傷害的12%反彈給相鄰敵軍。",
+   "升級：你的坦克每4秒會將所受傷害的18%反彈給相鄰敵軍。"
+  ],
+  "notes": [
+   "【備註】單坦可以拿，很不錯；多前排稍微差一點（要 check 是均分還是 AOE）。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier1.png",
+  "effect_en_base": "Your Tanks reflect 12% of damage taken to adjacent enemies every 4 seconds.",
+  "effect_en_blossom": "Your Tanks reflect 18% of damage taken to adjacent enemies every 4 seconds.",
+  "conditions_en": ""
+ },
+ {
+  "name": "活土",
+  "name_en": "Living Soil",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "2",
+  "round_range": "4-2 ~ 5-7",
+  "round_range_en": "4-2 to 5-7",
+  "effects": [
+   "每4秒，樹根會使一名敵軍暈眩1秒。",
+   "升級：每4秒，樹根會使2名敵軍暈眩1秒。"
+  ],
+  "notes": [
+   "【備註】需要戰力 → 建議拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Every 4 seconds, roots stun an enemy for 1 second.",
+  "effect_en_blossom": "Every 4 seconds, roots stun 2 enemies for 1 second.",
+  "conditions_en": ""
+ },
+ {
+  "name": "準備者",
+  "name_en": "Preppers",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "2",
+  "round_range": "3-1 ~ 5-7",
+  "round_range_en": "3-1 to 5-7",
+  "effects": [
+   "你的累加型道具在下回合戰鬥開始時獲得部份堆層。",
+   "升級：你的累加型道具在下回合戰鬥開始時會額外獲得 堆層。"
+  ],
+  "notes": [
+   "【備註】從沒拿過，看起來一坨（？未知，求驗證；可能大天使海克斯？）。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Your stacking items start next combat partially stacked.",
+  "effect_en_blossom": "Your stacking items start next combat extra stacked.",
+  "conditions_en": ""
+ },
+ {
+  "name": "餘震",
+  "name_en": "Aftershock",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "2",
+  "round_range": "4-2 ~ 10-1",
+  "round_range_en": "4-2 to 10-1",
+  "effects": [
+   "8秒後，使所有敵軍暈眩1.5秒。",
+   "升級：8和18秒後，暈眩所有敵軍，持續1.5秒。"
+  ],
+  "notes": [
+   "【備註】需要戰力 → 建議拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "After 8 seconds, stun all enemies for 1.5 seconds.",
+  "effect_en_blossom": "After 8 and 18 seconds, stun all enemies for 1.5 seconds.",
+  "conditions_en": ""
+ },
+ {
+  "name": "反制法術",
+  "name_en": "Counterspell",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "2",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "所有敵軍的最大魔力增加15，直到他們下次施放技能為止。",
+   "升級：所有敵軍的最大魔力增加22，直到他們下次施放技能為止。",
+   "稜彩（0）：所有敵軍的最大魔力增加150，直到他們下次施放技能為止。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Increase all enemies' Max Mana by 15 until their next cast.",
+  "effect_en_blossom": "Increase all enemies' Max Mana by 22 until their next cast.",
+  "conditions_en": ""
+ },
+ {
+  "name": "追蹤螢火蟲",
+  "name_en": "Homing Fireflies",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "2",
+  "round_range": "3-5 ~ 10-1",
+  "round_range_en": "3-5 to 10-1",
+  "effects": [
+   "施法者每花費20魔力，生成一隻螢火蟲。每隻造成110魔法傷害。",
+   "升級：施法者每花費15魔力，生成一隻螢火蟲。每隻造成110魔法傷害。"
+  ],
+  "notes": [
+   "【刷新條件】棋盤至少 2 名施法者",
+   "【備註】神諭必拿；法師可以考慮。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Your Casters spawn a firefly per 20 Mana spent. Each deals 110 magic damage.",
+  "effect_en_blossom": "Your Casters spawn a firefly per 15 Mana spent. Each deals 110 magic damage.",
+  "conditions_en": "Have at least 2 casters on the board"
+ },
+ {
+  "name": "提升攻擊距離",
+  "name_en": "Improved Reach",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "2",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "我方鬥士獲得1攻擊距離。",
+   "升級：我方鬥士增加2攻擊距離。"
+  ],
+  "notes": [
+   "【刷新條件】棋盤至少 2 名戰士；有已裝備的戰士"
+  ],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Your Fighters gain 1 range.",
+  "effect_en_blossom": "Your Fighters gain 2 range.",
+  "conditions_en": "Have at least 2 fighters on the board, Have an itemised fighter"
+ },
+ {
+  "name": "鐵核心",
+  "name_en": "Iron Core",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "2",
+  "round_range": "3-5 ~ 5-7",
+  "round_range_en": "3-5 to 5-7",
+  "effects": [
+   "每有一個前排單位，我方前排中央的英雄獲得4%最大生命。",
+   "升級：每有一個前排單位，你最前排中央的英雄獲得6%最大生命。"
+  ],
+  "notes": [
+   "【備註】很難有機會拿到；版本站位限定太大（若前排單位＝第一排）。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Your front center champion gains 4% Max Health per front-row unit.",
+  "effect_en_blossom": "Your front center champion gains 6% Max Health per front-row unit.",
+  "conditions_en": ""
+ },
+ {
+  "name": "射手烈風",
+  "name_en": "Marksmen's Gale",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "2",
+  "round_range": "4-2 ~ 10-1",
+  "round_range_en": "4-2 to 10-1",
+  "effects": [
+   "我方射手普攻賦予3%可累加的攻速。",
+   "升級：我方射手普攻賦予5%可累加的攻速。"
+  ],
+  "notes": [
+   "【刷新條件】棋盤至少 2 名射手；有已裝備的射手",
+   "【備註】不是迅擊的建議拿（例：艾希、希維爾、奈德麗…）。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Your Marksmen's attacks grant 3% stacking Attack Speed.",
+  "effect_en_blossom": "Your Marksmen's attacks grant 5% stacking Attack Speed.",
+  "conditions_en": "Have at least 2 marksmen on the board, Have an itemised marksman"
+ },
+ {
+  "name": "月光儀式",
+  "name_en": "Moonlight Ritual",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "2",
+  "round_range": "3-1 ~ 4-7",
+  "round_range_en": "3-1 to 4-7",
+  "effects": [
+   "在戰鬥中，我方星等最低的1或2費英雄升星。",
+   "升級：在戰鬥中，我方星等最低的2名1或2費英雄升星。"
+  ],
+  "notes": [
+   "【刷新條件】擁有 2 星的 1／2 費英雄",
+   "【備註】只有二費二可以拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Your lowest star 1-cost or 2-cost champion stars up in combat.",
+  "effect_en_blossom": "Your two lowest star 1-cost or 2-cost champions star up in combat.",
+  "conditions_en": "Have a 2-star 1- or 2-cost champion"
+ },
+ {
+  "name": "自然之友",
+  "name_en": "Nature's Ally",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "2",
+  "round_range": "4-2 ~ 10-1",
+  "round_range_en": "4-2 to 10-1",
+  "effects": [
+   "每當3名友軍陣亡時，召喚一隻隨機峽谷巨獸。",
+   "升級：每當3名友軍陣亡時，召喚一隻隨機峽谷巨獸(有可能是2星)。"
+  ],
+  "notes": [
+   "【備註】超爛，不拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Every 3 ally deaths, summon a random Riftbeast.",
+  "effect_en_blossom": "Every 3 ally deaths, summon a random Riftbeast that's sometimes 2-star.",
+  "conditions_en": ""
+ },
+ {
+  "name": "鬼魅護甲",
+  "name_en": "Phantom Armor",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "2",
+  "round_range": "3-1 ~ 5-7",
+  "round_range_en": "3-1 to 5-7",
+  "effects": [
+   "獲得1件暫時性的好戰者鎧甲。",
+   "升級：獲得1個暫時的不屈鬥魂。",
+   "稜彩（0）：獲得6件暫時的聖光好戰者鎧甲，以及5台移除器。"
+  ],
+  "notes": [
+   "【備註】三階段：五連勝以上，且標記對手拿了會影響勝負。四／五階段：基本不考慮。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Gain a temporary Warmog's Armor.",
+  "effect_en_blossom": "Gain a temporary The Indomitable.",
+  "conditions_en": ""
+ },
+ {
+  "name": "幻影濺射",
+  "name_en": "Phantom Splash",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "2",
+  "round_range": "4-2 ~ 10-1",
+  "round_range_en": "4-2 to 10-1",
+  "effects": [
+   "戰鬥開始：最多2項未啟用的特性會以最低等級啟用。",
+   "升級：戰鬥開始：最多4項未啟用的特性會以最低等級啟用。"
+  ],
+  "notes": [
+   "【備註】單掛拉路恩可以拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Combat start: Up to 2 inactive traits activate at the lowest level.",
+  "effect_en_blossom": "Combat Start: Up to 4 inactive traits activate at the lowest level.",
+  "conditions_en": ""
+ },
+ {
+  "name": "鬼魅胸甲",
+  "name_en": "Phantom Vest",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "2",
+  "round_range": "3-1 ~ 5-7",
+  "round_range_en": "3-1 to 5-7",
+  "effects": [
+   "獲得1件暫時的刺藤胸甲。",
+   "升級：獲得暫時性的黎明聖盾。"
+  ],
+  "notes": [
+   "【備註】三階段：五連勝以上，且標記對手拿了會影響勝負。四／五階段：基本不考慮。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Gain a temporary Bramble Vest.",
+  "effect_en_blossom": "Gain a temporary Aegis of Dawn.",
+  "conditions_en": ""
+ },
+ {
+  "name": "鍍板護盾",
+  "name_en": "Plated Shields",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "2",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "護盾效果提升15%。友軍獲得150護盾，持續10秒。",
+   "升級：護盾效果提升20%。友軍獲得300護盾，持續10秒。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Shields are 15% stronger. Allies gain 150 shield for 10 seconds.",
+  "effect_en_blossom": "Shields are 20% stronger. Allies gain 300 shield for 10 seconds.",
+  "conditions_en": ""
+ },
+ {
+  "name": "盆栽生命花",
+  "name_en": "Potted Lifebloom",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "2",
+  "round_range": "3-1 ~ 4-7",
+  "round_range_en": "3-1 to 4-7",
+  "effects": [
+   "獲得1個暫時的生命綻花。"
+  ],
+  "notes": [
+   "【刷新條件】古木羈絆啟動"
+  ],
+  "has_personal_note": false,
+  "official_zh_source": false,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Gain a temporary Lifeblossom.",
+  "effect_en_blossom": "",
+  "conditions_en": "Have Elderwood active"
+ },
+ {
+  "name": "盆栽石紋樹",
+  "name_en": "Potted Stonebark",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "2",
+  "round_range": "3-1 ~ 4-7",
+  "round_range_en": "3-1 to 4-7",
+  "effects": [
+   "獲得1個暫時的石紋樹。"
+  ],
+  "notes": [
+   "【刷新條件】古木羈絆啟動"
+  ],
+  "has_personal_note": false,
+  "official_zh_source": false,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Gain a temporary Stonebark Tree.",
+  "effect_en_blossom": "",
+  "conditions_en": "Have Elderwood active"
+ },
+ {
+  "name": "回復",
+  "name_en": "Regeneration",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "2",
+  "round_range": "3-5 ~ 4-7",
+  "round_range_en": "3-5 to 4-7",
+  "effects": [
+   "我方隊伍每秒回復1%最大生命。",
+   "升級：我方隊伍每秒回復2%最大生命。"
+  ],
+  "notes": [
+   "【備註】基本不拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Your team heals 1% max Health per second.",
+  "effect_en_blossom": "Your team heals 2% max Health per second.",
+  "conditions_en": ""
+ },
+ {
+  "name": "熊靈來訪",
+  "name_en": "Bear's Visit",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "3-5 ~ 5-7",
+  "round_range_en": "3-5 to 5-7",
+  "effects": [
+   "本場戰鬥獲得熊之原始增益。"
+  ],
+  "notes": [
+   "【刷新條件】原始羈絆啟動"
+  ],
+  "has_personal_note": false,
+  "official_zh_source": false,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Gain the Bear Primal buff for this combat.",
+  "effect_en_blossom": "",
+  "conditions_en": "Have Primal active"
+ },
+ {
+  "name": "銅牆鐵壁",
+  "name_en": "Bulwark",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "4-2 ~ 10-1",
+  "round_range_en": "4-2 to 10-1",
+  "effects": [
+   "你的坦克在生命低於50%時，會獲得一道等同於其20%最大生命的護盾。",
+   "升級：你的坦克在生命低於50%時，會獲得一個等同於其30%最大生命的護盾。"
+  ],
+  "notes": [
+   "【刷新條件】棋盤至少 2 名坦克",
+   "【備註】多坦陣容優先考慮（例：先鋒）。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Your Tanks gain a 20% Max Health shield upon falling below 50% Health.",
+  "effect_en_blossom": "Your Tanks gain a 30% Max Health shield upon falling below 50% Health.",
+  "conditions_en": "Have at least 2 tanks on the board"
+ },
+ {
+  "name": "多元化",
+  "name_en": "Diversified",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "4-2 ~ 5-7",
+  "round_range_en": "4-2 to 5-7",
+  "effects": [
+   "我方隊伍每啟動一項非唯一特性，就獲得@Health@生命。",
+   "升級：我方隊伍每啟動一項非唯一特性，就獲得45生命。"
+  ],
+  "notes": [
+   "【刷新條件】至少啟動 5 個羈絆"
+  ],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Your team gains 30 Health for each active non-unique trait.",
+  "effect_en_blossom": "Your team gains 45 Health for each active non-unique trait.",
+  "conditions_en": "Have at least 5 active traits"
+ },
+ {
+  "name": "傾盆大雨",
+  "name_en": "Downpour",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "我方隊伍獲得2魔力回復。",
+   "升級：我方隊伍獲得3魔力回復。",
+   "稜彩（0）：我方隊伍獲得15魔力回復。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Your team gains 2 Mana Regen.",
+  "effect_en_blossom": "Your team gains 3 Mana Regen.",
+  "conditions_en": ""
+ },
+ {
+  "name": "鐵木",
+  "name_en": "Ironwood",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "4-2 ~ 10-1",
+  "round_range_en": "4-2 to 10-1",
+  "effects": [
+   "攻擊我方最高生命英雄的敵軍，傷害降低12%。",
+   "升級：攻擊我方最高生命英雄的敵軍，傷害降低18%。"
+  ],
+  "notes": [
+   "【備註】13% 額外減傷（？）。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Enemies attacking your highest health champion deal 12% less damage.",
+  "effect_en_blossom": "Enemies attacking your highest health champion deal 18% less damage.",
+  "conditions_en": ""
+ },
+ {
+  "name": "殺戮狂熱",
+  "name_en": "Killing Frenzy",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "鬥士會處決生命低於12%的目標。他們在擊殺時會增加15%攻速。",
+   "升級：鬥士會處決生命低於15%的目標。他們在擊殺時會增加40%攻速。"
+  ],
+  "notes": [
+   "【刷新條件】有已裝備的戰士；棋盤至少 2 名戰士"
+  ],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Fighters execute targets under 12% Health. They gain 15% Attack Speed on kill.",
+  "effect_en_blossom": "Fighters execute targets under 15% Health. They gain 40% Attack Speed on kill.",
+  "conditions_en": "Have an itemised fighter, Have at least 2 fighters on the board"
+ },
+ {
+  "name": "魔力土壤",
+  "name_en": "Mana-Rich Soil",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "我方法師最大魔力降低0.82。",
+   "升級：我方法師最大魔力降低0.75。"
+  ],
+  "notes": [
+   "【刷新條件】棋盤至少 2 名施法者；有已裝備的施法者"
+  ],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Your Casters have 18% reduced Max Mana.",
+  "effect_en_blossom": "Your Casters have 25% reduced Max Mana.",
+  "conditions_en": "Have at least 2 casters on the board, Have an itemised caster"
+ },
+ {
+  "name": "射手標記",
+  "name_en": "Marksmen's Marks",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "我方射手有30%機率施展雙重攻擊。",
+   "升級：你的射手有45%機率施展雙重攻擊。"
+  ],
+  "notes": [
+   "【刷新條件】棋盤至少 2 名射手；有已裝備的射手"
+  ],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Your Marksmen have a 30% chance to double attack.",
+  "effect_en_blossom": "Your Marksmen have a 45% chance to double attack.",
+  "conditions_en": "Have at least 2 marksmen on the board, Have an itemised marksman"
+ },
+ {
+  "name": "紀念假人",
+  "name_en": "Memorial Dummy",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "3-5 ~ 10-1",
+  "round_range_en": "3-5 to 10-1",
+  "effects": [
+   "第一個攜帶道具的坦克陣亡時，會生成一個攜帶其道具的訓練假人。",
+   "升級：第一個陣亡的2坦克會生成1個攜帶其道具的訓練假人。"
+  ],
+  "notes": [
+   "【備註】三階段五連勝以上考慮；四階段單坦陣容考慮。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Your first itemized tank spawns a Dummy with their items on death.",
+  "effect_en_blossom": "The first 2 tanks that die spawns a Training Dummy with their items.",
+  "conditions_en": ""
+ },
+ {
+  "name": "傭兵部隊",
+  "name_en": "Mercenary Force",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "4-2 ~ 5-7",
+  "round_range_en": "4-2 to 5-7",
+  "effects": [
+   "每擁有10金錢，便獲得3%傷害增幅。",
+   "升級：你每擁有10金錢，便獲得4.5%傷害增幅。"
+  ],
+  "notes": [
+   "【刷新條件】至少持有 30 金幣",
+   "【備註】40 塊加上要戰力才拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Gain 3% Damage Amp for every 10 gold you have.",
+  "effect_en_blossom": "Gain 4.5% Damage Amp for every 10 gold you have.",
+  "conditions_en": "Have at least 30 gold"
+ },
+ {
+  "name": "鬼魅手套",
+  "name_en": "Phantom Gloves",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "3-1 ~ 5-7",
+  "round_range_en": "3-1 to 5-7",
+  "effects": [
+   "獲得1副暫時的竊賊手套",
+   "升級：獲得1副暫時的縮小手套。"
+  ],
+  "notes": [
+   "【備註】基本不考慮；除非 8 等 stable 考慮上九（4／5 階段一波血值得）。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Gain a temporary Thief's Gloves.",
+  "effect_en_blossom": "Gain a temporary Mittens.",
+  "conditions_en": ""
+ },
+ {
+  "name": "復仇",
+  "name_en": "Revenge",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "每當一名友軍陣亡時，我方英雄獲得4%層傷害增幅。",
+   "升級：友軍陣亡時，我方英雄獲得6%可累加傷害增幅。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Whenever an ally dies, your champions gain 4% stacking Damage Amp.",
+  "effect_en_blossom": "Whenever an ally dies, your champions gain 6% stacking Damage Amp.",
+  "conditions_en": ""
+ },
+ {
+  "name": "鬥志旺盛",
+  "name_en": "Scrappy",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "4-2 ~ 5-7",
+  "round_range_en": "4-2 to 5-7",
+  "effects": [
+   "戰鬥開始：2位沒有道具的英雄暫時獲得1件推薦道具。",
+   "升級：戰鬥開始：3位沒有道具的英雄暫時獲得1件推薦道具。"
+  ],
+  "notes": [
+   "【備註】有掛件不拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Combat start: 2 champions without items gain a temporary recommended item.",
+  "effect_en_blossom": "Combat Start: 3 champions without items gain a temporary recommended item.",
+  "conditions_en": ""
+ },
+ {
+  "name": "點心時間！",
+  "name_en": "Snacktime!",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "4-2 ~ 10-1",
+  "round_range_en": "4-2 to 10-1",
+  "effects": [
+   "「BFF」會吞噬受其傷害且生命低於15%的敵軍。",
+   "升級：「BFF」會吞噬受其傷害且生命低於20%的敵軍。"
+  ],
+  "notes": [
+   "【刷新條件】Sprykin 羈絆啟動"
+  ],
+  "has_personal_note": false,
+  "official_zh_source": false,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "The BFF eats enemies he damages under 15% Max Health.",
+  "effect_en_blossom": "The BFF eats enemies he damages under 20% Max Health.",
+  "conditions_en": "Have Sprykin active"
+ },
+ {
+  "name": "孤寂斗篷",
+  "name_en": "Solitude's Cloak",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "沒有相鄰友軍的英雄獲得10%最大生命和10%傷害增幅。",
+   "升級：沒有相鄰友軍的英雄獲得15%最大生命和15%傷害增幅。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Champions with no adjacent allies gain 10% Max Health and 10% Damage Amp.",
+  "effect_en_blossom": "Champions with no adjacent allies gain 15% Max Health and 15% Damage Amp.",
+  "conditions_en": ""
+ },
+ {
+  "name": "一夫當關",
+  "name_en": "Stand Alone",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "3-5 ~ 10-1",
+  "round_range_en": "3-5 to 10-1",
+  "effects": [
+   "獨自一排的英雄增加15%生命和15%傷害增幅。",
+   "升級：獨自一排的英雄增加22%生命和22%傷害增幅。",
+   "稜彩（0）：獨自一排的英雄增加100%生命和150%傷害增幅。"
+  ],
+  "notes": [
+   "【刷新條件】古木羈絆未啟動；月華羈絆未啟動；綠父羈絆未啟動",
+   "【備註】三階段五連勝考慮；四階段後無腦拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Champions alone in their row gain 15% Health and 15% Damage Amp.",
+  "effect_en_blossom": "Champions alone in their row gain 22% Health and 22% Damage Amp.",
+  "conditions_en": "Have Elderwood inactive, Have Lunar inactive, Have Greenfather inactive"
+ },
+ {
+  "name": "超級暴擊",
+  "name_en": "Supercritical",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "4-2 ~ 10-1",
+  "round_range_en": "4-2 to 10-1",
+  "effects": [
+   "擁有精準的友軍增加25%暴擊傷害。",
+   "升級：擁有精準的友軍增加40%暴擊傷害。"
+  ],
+  "notes": [
+   "【刷新條件】隊伍有 2 名精準單位",
+   "【備註】兩個主 C 擁有精準可考慮；三個以上強戰力＋法杖。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Allies with Precision gain 25% Critical Strike Damage.",
+  "effect_en_blossom": "Allies with Precision gain 40% Critical Strike Damage.",
+  "conditions_en": "Have 2 units with Precision"
+ },
+ {
+  "name": "虎靈來訪",
+  "name_en": "Tiger's Visit",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "3-5 ~ 5-7",
+  "round_range_en": "3-5 to 5-7",
+  "effects": [
+   "本場戰鬥獲得虎之原始增益。"
+  ],
+  "notes": [
+   "【刷新條件】原始羈絆啟動"
+  ],
+  "has_personal_note": false,
+  "official_zh_source": false,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Gain the Tiger Primal buff for this combat.",
+  "effect_en_blossom": "",
+  "conditions_en": "Have Primal active"
+ },
+ {
+  "name": "訓練場",
+  "name_en": "Training Yard",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "4-2 ~ 5-7",
+  "round_range_en": "4-2 to 5-7",
+  "effects": [
+   "獲得2個訓練假人，每個各帶有一件隨機坦克道具。",
+   "升級：獲得3個訓練假人，每個各帶有一件隨機坦克道具。"
+  ],
+  "notes": [
+   "【備註】需要戰力 → 建議拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Gain 2 Training Dummies each with a random tank item.",
+  "effect_en_blossom": "Gain 3 Training Dummies each with a random tank item.",
+  "conditions_en": ""
+ },
+ {
+  "name": "龜靈來訪",
+  "name_en": "Turtle's Visit",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "3-5 ~ 5-7",
+  "round_range_en": "3-5 to 5-7",
+  "effects": [
+   "本場戰鬥獲得龜之原始增益。"
+  ],
+  "notes": [
+   "【刷新條件】原始羈絆啟動"
+  ],
+  "has_personal_note": false,
+  "official_zh_source": false,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Gain the Turtle Primal buff for this combat.",
+  "effect_en_blossom": "",
+  "conditions_en": "Have Primal active"
+ },
+ {
+  "name": "約德爾之魂",
+  "name_en": "Yordle Spirit",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "4-2 ~ 5-7",
+  "round_range_en": "4-2 to 5-7",
+  "effects": [
+   "友軍有99%機率迴避普攻，持續4秒。",
+   "升級：友軍有99%機率迴避普攻，持續5秒。"
+  ],
+  "notes": [
+   "【備註】盡量別拿的戰力。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Allies have a 99% chance to dodge attacks for 4 seconds.",
+  "effect_en_blossom": "Allies have a 99% chance to dodge attacks for 5 seconds.",
+  "conditions_en": ""
+ },
+ {
+  "name": "後排巨星",
+  "name_en": "Backrow Star",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "4",
+  "round_range": "4-2 ~ 10-1",
+  "round_range_en": "4-2 to 10-1",
+  "effects": [
+   "一名隨機後排英雄獲得75%攻速，持續7秒。",
+   "升級：一名隨機後排英雄獲得100%攻速，持續8秒。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "A random back row champion gains 75% Attack Speed for 7 seconds.",
+  "effect_en_blossom": "A random back row champion gains 100% Attack Speed for 8 seconds.",
+  "conditions_en": ""
+ },
+ {
+  "name": "光盾",
+  "name_en": "Barrier",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "4",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "友軍獲得1250護盾，在6秒內逐漸衰減。",
+   "升級：友軍獲得1250護盾，在9秒內逐漸衰減。",
+   "稜彩（0）：友軍獲得7500護盾，在30秒內逐漸衰減。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Allies gain 1250 Shield, decaying over 6 seconds.",
+  "effect_en_blossom": "Allies gain 1250 Shield, decaying over 9 seconds.",
+  "conditions_en": ""
+ },
+ {
+  "name": "團契",
+  "name_en": "Fellowship",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "4",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "每有一名相鄰友軍，英雄便獲得4%最大生命護盾與4%傷害增幅。",
+   "升級：每有一名相鄰友軍，英雄便獲得6%最大生命護盾與6%傷害增幅。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Champions gain 4% Max Health Shield and 4% Damage Amp per adjacent ally.",
+  "effect_en_blossom": "Champions gain 6% Max Health Shield and 6% Damage Amp per adjacent ally.",
+  "conditions_en": ""
+ },
+ {
+  "name": "強心針",
+  "name_en": "Booster Shot",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "黃金",
+  "cost": "6",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "在戰鬥中，最多2個1星英雄會暫時提升星等。",
+   "升級：在戰鬥中，最多3個1星英雄會暫時升星。"
+  ],
+  "notes": [
+   "【刷新條件】有 2 名 1 星英雄，或滿裝 5 費"
+  ],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier2.png",
+  "effect_en_base": "Up to 2 1-star champions temporarily star up during combat.",
+  "effect_en_blossom": "Up to 3 1-star champions temporarily star up during combat.",
+  "conditions_en": "Have 2 1-star champions, or a fully itemised 5-cost"
+ },
+ {
+  "name": "傭兵",
+  "name_en": "Hireling",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "稜彩",
+  "cost": "5",
+  "round_range": "6-1 ~ 10-1",
+  "round_range_en": "6-1 to 10-1",
+  "effects": [
+   "一名擁有1件推薦道具的暫時1星5費英雄加入我方隊伍。",
+   "升級：一名擁有2件推薦道具的暫時1星5費英雄加入我方隊伍。",
+   "稜彩（0）：3名擁有2件推薦道具的暫時2星5費英雄加入我方隊伍。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier3.png",
+  "effect_en_base": "A temporary 1-star 5-cost with 1 recommended items joins your team.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "大器晚成",
+  "name_en": "Late Bloomer",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "稜彩",
+  "cost": "6",
+  "round_range": "4-2 ~ 5-7",
+  "round_range_en": "4-2 to 5-7",
+  "effects": [
+   "1名暫時3星1費英雄加入我方隊伍。",
+   "升級：一名擁有1件推薦道具的暫時3星1費英雄加入我方隊伍。",
+   "稜彩（0）：一支由5暫時性4星1費英雄組成的小隊加入你的戰隊。"
+  ],
+  "notes": [
+   "【備註】建議不拿，太貴。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier3.png",
+  "effect_en_base": "A temporary 3-star 1-cost joins your team.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "自然之怒",
+  "name_en": "Nature's Wrath",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "稜彩",
+  "cost": "1",
+  "round_range": "6-1 ~ 10-1",
+  "round_range_en": "6-1 to 10-1",
+  "effects": [
+   "在10秒後，擊殺所有未持有道具的單位。",
+   "升級：在8秒後，擊殺所有未持有道具的單位。"
+  ],
+  "notes": [
+   "【刷新條件】有英雄穿著裝備；古木羈絆未啟動"
+  ],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier3.png",
+  "effect_en_base": "Kill EVERYONE without an item after 10 seconds.",
+  "effect_en_blossom": "Kill EVERYONE without an item after 8 seconds.",
+  "conditions_en": "Have champions carrying items, Have Elderwood inactive"
+ },
+ {
+  "name": "殺手的悔恨",
+  "name_en": "Killer's Regret",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "稜彩",
+  "cost": "2",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "我方最先陣亡的3名英雄會使擊殺者暈眩1.25秒。",
+   "升級：我方最先陣亡的4名英雄會使擊殺者暈眩1.5秒。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier3.png",
+  "effect_en_base": "Your first 3 champions to die stun their killer for 1.25 seconds.",
+  "effect_en_blossom": "Your first 4 champions to die stun their killer for 1.5 second.",
+  "conditions_en": ""
+ },
+ {
+  "name": "鬼魅徽章",
+  "name_en": "Phantom Emblem",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "稜彩",
+  "cost": "3",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "獲得你啟動最多的特性的暫時徽章。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier3.png",
+  "effect_en_base": "Gain a temporary emblem of your most active trait.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "巨大成長",
+  "name_en": "Giant Growth",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "稜彩",
+  "cost": "4",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "生命最高的我方單位變大，增加700生命。",
+   "升級：我方2個生命最高的單位變大，增加700生命。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier3.png",
+  "effect_en_base": "Your highest Health unit grows, gaining 700 Health.",
+  "effect_en_blossom": "Your 2 highest Health units grow, gaining 700 Health.",
+  "conditions_en": ""
+ },
+ {
+  "name": "英靈之門",
+  "name_en": "Hero's Entrance",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "稜彩",
+  "cost": "4",
+  "round_range": "6-1 ~ 10-1",
+  "round_range_en": "6-1 to 10-1",
+  "effects": [
+   "8秒後，備戰區最左邊的英雄會加入戰鬥，並獲得2件推薦道具。",
+   "升級：5秒後，備戰區最左邊的英雄加入戰鬥，並獲得2件推薦道具。"
+  ],
+  "notes": [
+   "【刷新條件】候補席有單位"
+  ],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier3.png",
+  "effect_en_base": "After 8 seconds, the leftmost benched champion joins combat and gains 2 recommended items.",
+  "effect_en_blossom": "After 5 seconds, the leftmost benched champion joins combat and gains 2 recommended items.",
+  "conditions_en": "Have a unit on the bench"
+ },
+ {
+  "name": "地動山搖",
+  "name_en": "Tremors",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "稜彩",
+  "cost": "4",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "每8秒，暈眩敵軍1秒。",
+   "升級：每8秒暈眩敵軍1.5秒。",
+   "稜彩（0）：每3秒暈眩敵軍1.5秒。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier3.png",
+  "effect_en_base": "Every 8 seconds, Stun enemies for 1 second.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "烈炎",
+  "name_en": "Blaze",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "稜彩",
+  "cost": "5",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "火焰蔓延整個盤面，對敵軍造成真實傷害。",
+   "升級：火焰蔓延整個盤面，對敵軍造成更多真實傷害。",
+   "稜彩（0）：戰場上燃起一場熊熊烈火！"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier3.png",
+  "effect_en_base": "Fire spreads across the board, dealing true damage to enemies.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "分身夥伴",
+  "name_en": "Clone Companion",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "稜彩",
+  "cost": "5",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "複製我方傷害最高的英雄。分身造成20%傷害。",
+   "升級：複製我方傷害最高的英雄。分身造成30%傷害。",
+   "稜彩（0）：複製你傷害最高的英雄。分身造成100%傷害。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier3.png",
+  "effect_en_base": "Clone your highest damage champion. The clone deals 20% damage.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "爆發四散",
+  "name_en": "Combust",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "稜彩",
+  "cost": "5",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "你的英雄死亡時會爆炸，造成相當於15%最大生命的魔法傷害。",
+   "升級：你的英雄死亡時會爆炸，造成相當於22%最大生命的魔法傷害。",
+   "稜彩（0）：你的英雄死亡時會爆炸，造成相當於100%最大生命的魔法傷害。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier3.png",
+  "effect_en_base": "Your champions explode on death, dealing 15% Max Health magic damage.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "巨人靈氣",
+  "name_en": "Giant's Aura",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "稜彩",
+  "cost": "5",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "友方生命最高的單位每秒造成2%最大生命的範圍傷害。",
+   "升級：友方生命最高的單位每秒造成3%最大生命的範圍傷害。",
+   "稜彩（0）：友方生命最高的單位變成絕對威脅。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier3.png",
+  "effect_en_base": "Your highest Health ally deals 2% max Health damage per second in an area.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "英勇犧牲",
+  "name_en": "Heroic Sacrifice",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "稜彩",
+  "cost": "5",
+  "round_range": "4-2 ~ 5-7",
+  "round_range_en": "4-2 to 5-7",
+  "effects": [
+   "我方最強大的3名英雄獲得英雄之力，但其他友軍會被犧牲。"
+  ],
+  "notes": [
+   "【刷新條件】有英雄穿著裝備；滿裝單位少於 4",
+   "【備註】建議三個滿裝再拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier3.png",
+  "effect_en_base": "Your 3 strongest Champions gain HEROIC POWER, but other allies are sacrificed.",
+  "effect_en_blossom": "Your 3 strongest Champions gain HEROIC POWER, but other allies are sacrificed.",
+  "conditions_en": "Have champions carrying items, Have fewer than 4 fully itemised units"
+ },
+ {
+  "name": "閃電風暴",
+  "name_en": "Lightning Storm",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "稜彩",
+  "cost": "5",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "每1秒，對敵軍造成5%最大生命的真實傷害。",
+   "升級：每1秒對敵軍造成7%最大生命的真實傷害。",
+   "稜彩（0）：每0.15秒對敵軍造成5%最大生命的真實傷害。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier3.png",
+  "effect_en_base": "Every 1 second deal 5% Max Health true damage to an enemy.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "光芒萬丈",
+  "name_en": "Radiantize",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "稜彩",
+  "cost": "5",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "8秒後，1件隨機的已裝備道具會暫時變為聖光道具。",
+   "升級：5秒後，1件隨機的已裝備道具會暫時變為聖光道具。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier3.png",
+  "effect_en_base": "After 8 seconds, 1 random equipped item temporarily becomes Radiant.",
+  "effect_en_blossom": "After 5 seconds, 1 random equipped item temporarily becomes Radiant.",
+  "conditions_en": ""
+ },
+ {
+  "name": "樹梢射手",
+  "name_en": "Treetop Archers",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "稜彩",
+  "cost": "5",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "射手從樹林中射擊，每3秒造成500物理傷害。",
+   "升級：射手從樹林中射擊，每3秒造成900物理傷害。",
+   "稜彩（0）：大量弓箭手從樹林中放箭。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier3.png",
+  "effect_en_base": "Archers fire from the trees, dealing 500 physical damage every 3 seconds.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "巴龍之爪",
+  "name_en": "Hand Of Baron",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "稜彩",
+  "cost": "6",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "你的隊伍獲得巴龍增益，能力值提升。",
+   "升級：你的隊伍獲得巴龍增益，能力值大幅提升。"
+  ],
+  "notes": [
+   "【刷新條件】裂谷野獸羈絆啟動"
+  ],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier3.png",
+  "effect_en_base": "Your team gains Baron Buff, increasing their stats.",
+  "effect_en_blossom": "Your team gains Baron Buff, greatly increasing their stats.",
+  "conditions_en": "Have Riftbeast active"
+ },
+ {
+  "name": "施加痛苦",
+  "name_en": "Infliction",
+  "category": "戰鬥",
+  "category_en": "Combat",
+  "rarity": "稜彩",
+  "cost": "6",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "對敵軍造成緩速、燃燒、削抗與破甲效果，持續8秒。",
+   "升級：對敵軍造成緩速、燃燒、削抗與破甲效果，持續12秒。"
+  ],
+  "notes": [
+   "【刷新條件】尚未施加粉碎／碎裂；尚未施加燃燒／重創（煉獄啟動除外）"
+  ],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_combat_tier3.png",
+  "effect_en_base": "Slow, Burn, Shred, and Sunder enemies for 8 seconds.",
+  "effect_en_blossom": "Slow, Burn, Shred, and Sunder enemies for 12 seconds.",
+  "conditions_en": "Not already applying Shred or Sunder, Not already applying Burn or Wound, unless Inferno is active"
+ },
+ {
+  "name": "乞求神火",
+  "name_en": "Beggar's Wisp",
+  "category": "金幣／經驗",
+  "category_en": "GoldXP",
+  "rarity": "白銀",
+  "cost": "0",
+  "round_range": "2-1 ~ 10-1",
+  "round_range_en": "2-1 to 10-1",
+  "effects": [
+   "本次重抽不會出現神火。獲得4金錢。",
+   "升級：本次重抽不會出現神火。獲得6金錢。"
+  ],
+  "notes": [
+   "【備註】除了後期，其他時段必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_goldxp_tier1.png",
+  "effect_en_base": "The wilds couldn't find a wisp for you this roll. Gain 4 gold.",
+  "effect_en_blossom": "The wilds couldn't find a wisp for you this roll. Gain 6 gold.",
+  "conditions_en": ""
+ },
+ {
+  "name": "擲硬幣",
+  "name_en": "Coin Flip",
+  "category": "金幣／經驗",
+  "category_en": "GoldXP",
+  "rarity": "白銀",
+  "cost": "0",
+  "round_range": "2-1 ~ 2-7",
+  "round_range_en": "2-1 to 2-7",
+  "effects": [
+   "擲硬幣，正面時獲得1金錢。",
+   "升級：擲2枚硬幣，如果是正面，獲得1金錢。"
+  ],
+  "notes": [
+   "【備註】2-1～2-7 必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_goldxp_tier1.png",
+  "effect_en_base": "Flip a coin, gain 1 gold if it's heads.",
+  "effect_en_blossom": "Flip 2 coins, gain 1 gold if it's heads.",
+  "conditions_en": ""
+ },
+ {
+  "name": "停戰協定",
+  "name_en": "Truce",
+  "category": "金幣／經驗",
+  "category_en": "GoldXP",
+  "rarity": "白銀",
+  "cost": "0",
+  "round_range": "2-1 ~ 2-7",
+  "round_range_en": "2-1 to 2-7",
+  "effects": [
+   "獲得1金錢。你的對手獲得1金錢。",
+   "升級：獲得2金錢。你的對手獲得1金錢。",
+   "稜彩（0）：獲得100金錢。你的對手獲得1金錢。"
+  ],
+  "notes": [
+   "【備註】必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_goldxp_tier1.png",
+  "effect_en_base": "Gain 1 gold. Your opponent gains 1 gold.",
+  "effect_en_blossom": "Gain 2 gold. Your opponent gains 1 gold.",
+  "conditions_en": ""
+ },
+ {
+  "name": "老手",
+  "name_en": "Experienced",
+  "category": "金幣／經驗",
+  "category_en": "GoldXP",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "2-1 ~ 2-7",
+  "round_range_en": "2-1 to 2-7",
+  "effects": [
+   "獲得2經驗值。"
+  ],
+  "notes": [
+   "【備註】不是一費賭狗陣容 → 必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_goldxp_tier1.png",
+  "effect_en_base": "Gain 2 XP.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "蠅頭小利",
+  "name_en": "Pocket Change",
+  "category": "金幣／經驗",
+  "category_en": "GoldXP",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "3-1 ~ 4-1",
+  "round_range_en": "3-1 to 4-1",
+  "effects": [
+   "我方1星英雄死亡時會掉落1金錢。",
+   "升級：我方1星英雄死亡時會掉落1金錢。獲得1金錢。"
+  ],
+  "notes": [
+   "【刷新條件】至少 2 名 1 星英雄",
+   "【備註】不拿是棒槌。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_goldxp_tier1.png",
+  "effect_en_base": "Your one-star champions drop 1 gold on death.",
+  "effect_en_blossom": "Your one-star champions drop 1 gold on death. Gain 1 gold.",
+  "conditions_en": "Have at least 2 1-star champions"
+ },
+ {
+  "name": "發願",
+  "name_en": "Barter",
+  "category": "金幣／經驗",
+  "category_en": "GoldXP",
+  "rarity": "白銀",
+  "cost": "2",
+  "round_range": "3-5 ~ 5-7",
+  "round_range_en": "3-5 to 5-7",
+  "effects": [
+   "本回合下一個出售的英雄，以200%金錢賣出。",
+   "升級：本回合下一個出售的英雄，以250%金錢賣出。"
+  ],
+  "notes": [
+   "【備註】不是死亡邊緣 → 必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_goldxp_tier1.png",
+  "effect_en_base": "The next champion sold this round sells for 200% gold.",
+  "effect_en_blossom": "The next champion sold this round sells for 250% gold.",
+  "conditions_en": ""
+ },
+ {
+  "name": "血汗錢",
+  "name_en": "Blood Money",
+  "category": "金幣／經驗",
+  "category_en": "GoldXP",
+  "rarity": "白銀",
+  "cost": "2",
+  "round_range": "3-1 ~ 4-7",
+  "round_range_en": "3-1 to 4-7",
+  "effects": [
+   "你每擊殺1名英雄，獲得1金錢。",
+   "升級（1）：你每擊殺1名英雄，獲得1金錢。獲得1金錢。"
+  ],
+  "notes": [
+   "【備註】有換怪質量（能換兩隻）→ 必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_goldxp_tier1.png",
+  "effect_en_base": "Gain 1 gold for every champion you kill.",
+  "effect_en_blossom": "Gain 1 gold for every champion you kill. Gain 1 gold.",
+  "conditions_en": ""
+ },
+ {
+  "name": "擲骰",
+  "name_en": "Die Roll",
+  "category": "金幣／經驗",
+  "category_en": "GoldXP",
+  "rarity": "白銀",
+  "cost": "2",
+  "round_range": "3-1 ~ 4-1",
+  "round_range_en": "3-1 to 4-1",
+  "effects": [
+   "擲一顆六面骰。獲得等同於骰數的金錢。",
+   "升級（3）：擲出兩顆六面骰。獲得等同於骰數的金錢。"
+  ],
+  "notes": [
+   "【備註】必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_goldxp_tier1.png",
+  "effect_en_base": "Roll a six-sided die. Gain gold equal to the result.",
+  "effect_en_blossom": "Roll two six-sided dice. Gain gold equal to the result.",
+  "conditions_en": ""
+ },
+ {
+  "name": "生命債",
+  "name_en": "Life Debt",
+  "category": "金幣／經驗",
+  "category_en": "GoldXP",
+  "rarity": "黃金",
+  "cost": "0",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "每失去12玩家生命，獲得1金錢。",
+   "升級：每失去12玩家生命，獲得1金錢。然後回復3生命。"
+  ],
+  "notes": [
+   "【刷新條件】至少缺少 12 點玩家生命"
+  ],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_goldxp_tier2.png",
+  "effect_en_base": "Gain 1 gold for every 12 missing Player Health.",
+  "effect_en_blossom": "Gain 1 gold for every 12 missing Player Health. Then heal 3 Health.",
+  "conditions_en": "Be missing 12 or more health"
+ },
+ {
+  "name": "金鵝",
+  "name_en": "Golden Goose",
+  "category": "金幣／經驗",
+  "category_en": "GoldXP",
+  "rarity": "黃金",
+  "cost": "1",
+  "round_range": "4-2 ~ 5-7",
+  "round_range_en": "4-2 to 5-7",
+  "effects": [
+   "我方傷害最高的英雄每造成1700傷害，獲得1金錢。",
+   "升級：你傷害最高的英雄每造成1000傷害，獲得1金錢。"
+  ],
+  "notes": [
+   "【備註】還沒要死、還能發育 → 必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_goldxp_tier2.png",
+  "effect_en_base": "Gain 1 gold for every 1700 damage your highest damage champion deals.",
+  "effect_en_blossom": "Gain 1 gold for every 1000 damage your highest damage champion deals.",
+  "conditions_en": ""
+ },
+ {
+  "name": "銅湯匙",
+  "name_en": "Bronze Spoon",
+  "category": "金幣／經驗",
+  "category_en": "GoldXP",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "2-1 ~ 4-1",
+  "round_range_en": "2-1 to 4-1",
+  "effects": [
+   "獲得4經驗值。"
+  ],
+  "notes": [
+   "【備註】不卡利息 → 必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_goldxp_tier2.png",
+  "effect_en_base": "Gain 4 XP.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "慢速學習",
+  "name_en": "Slow Study",
+  "category": "金幣／經驗",
+  "category_en": "GoldXP",
+  "rarity": "黃金",
+  "cost": "4",
+  "round_range": "3-5 ~ 4-7",
+  "round_range_en": "3-5 to 4-7",
+  "effects": [
+   "15秒後，每有一名友方英雄存活，獲得2經驗值。",
+   "升級：12秒後，每有一名友方英雄存活，獲得2經驗值。"
+  ],
+  "notes": [
+   "【備註】有質量時三階段必拿；四階段 stable 才拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_goldxp_tier2.png",
+  "effect_en_base": "For each ally champion alive after 15 seconds, gain 2 XP.",
+  "effect_en_blossom": "For each ally champion alive after 12 seconds, gain 2 XP.",
+  "conditions_en": ""
+ },
+ {
+  "name": "成長",
+  "name_en": "Grow Up",
+  "category": "金幣／經驗",
+  "category_en": "GoldXP",
+  "rarity": "黃金",
+  "cost": "7",
+  "round_range": "3-1 ~ 4-7",
+  "round_range_en": "3-1 to 4-7",
+  "effects": [
+   "獲得10經驗值。",
+   "升級：獲得12經驗值。"
+  ],
+  "notes": [
+   "【備註】不是在該等級待到死 → 必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_goldxp_tier2.png",
+  "effect_en_base": "Gain 10 XP.",
+  "effect_en_blossom": "Gain 12 XP.",
+  "conditions_en": ""
+ },
+ {
+  "name": "神器活現",
+  "name_en": "Artifactinate",
+  "category": "道具",
+  "category_en": "Item",
+  "rarity": "黃金",
+  "cost": "0",
+  "round_range": "2-1 ~ 3-4",
+  "round_range_en": "2-1 to 3-4",
+  "effects": [
+   "失去3個組件，包括已合成於道具中的組件。獲得1個神器鐵砧。",
+   "升級：失去3個組件，包括已合成於道具中的組件。獲得1個神器鐵砧及1台重鑄器。"
+  ],
+  "notes": [
+   "【刷新條件】至少有 3 個散件",
+   "【備註】裝備很爛時可考慮（尤其沒有青龍刀／羊刀組件）；否則等神器加強後再考慮。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_item_tier2.png",
+  "effect_en_base": "Lose 3 components, including ones built into items. Gain an Artifact anvil.",
+  "effect_en_blossom": "Lose 3 components, including ones built into items. Gain an Artifact anvil and 1 Reforger.",
+  "conditions_en": "Have at least 3 components"
+ },
+ {
+  "name": "珍品購物車",
+  "name_en": "Curio Cart",
+  "category": "道具",
+  "category_en": "Item",
+  "rarity": "黃金",
+  "cost": "0",
+  "round_range": "3-1 ~ 4-7",
+  "round_range_en": "3-1 to 4-7",
+  "effects": [
+   "打開道具商店。價格範圍為0至15金錢。",
+   "升級：打開道具商店。價格範圍為0至15金錢。獲得2金錢。"
+  ],
+  "notes": [
+   "【刷新條件】金幣足夠（購買條件）",
+   "【備註】必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_item_tier2.png",
+  "effect_en_base": "Open an item store. Items cost 0 to 15 gold.",
+  "effect_en_blossom": "Open an item store. Items cost 0 to 15 gold. Gain 2 Gold.",
+  "conditions_en": "Have enough gold"
+ },
+ {
+  "name": "小販",
+  "name_en": "Peddler",
+  "category": "道具",
+  "category_en": "Item",
+  "rarity": "黃金",
+  "cost": "0",
+  "round_range": "4-2 ~ 5-7",
+  "round_range_en": "4-2 to 5-7",
+  "effects": [
+   "開啟隨機道具商店。價格範圍為0至14金錢。",
+   "升級：開啟隨機道具商店。價格範圍為0至14金錢。獲得2金錢。"
+  ],
+  "notes": [
+   "【刷新條件】金幣足夠（購買條件）",
+   "【備註】必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_item_tier2.png",
+  "effect_en_base": "Open a random item store. Random items cost 0 to 14 gold.",
+  "effect_en_blossom": "Open a random item store. Random items cost 0 to 14 gold. Gain 2 Gold.",
+  "conditions_en": "Have enough gold"
+ },
+ {
+  "name": "鮮血和鋼鐵",
+  "name_en": "Blood and Iron",
+  "category": "道具",
+  "category_en": "Item",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "3-1 ~ 4-1",
+  "round_range_en": "3-1 to 4-1",
+  "effects": [
+   "20名英雄死亡後，獲得1個組件鐵砧。",
+   "升級：16名英雄死亡後，獲得1個組件鐵砧。"
+  ],
+  "notes": [
+   "【備註】建議拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_item_tier2.png",
+  "effect_en_base": "After 20 champion deaths, gain a component anvil.",
+  "effect_en_blossom": "After 16 champion deaths, gain a component anvil.",
+  "conditions_en": ""
+ },
+ {
+  "name": "閒人工匠",
+  "name_en": "Idle Craftsman",
+  "category": "道具",
+  "category_en": "Item",
+  "rarity": "黃金",
+  "cost": "4",
+  "round_range": "3-1 ~ 4-1",
+  "round_range_en": "3-1 to 4-1",
+  "effects": [
+   "我方備戰區的1件組件變為該組件可合成的完整道具。"
+  ],
+  "notes": [
+   "【刷新條件】候補席至少 1 個散件",
+   "【備註】建議拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_item_tier2.png",
+  "effect_en_base": "A component on your bench turns into a completed item it builds.",
+  "effect_en_blossom": "",
+  "conditions_en": "Have at least 1 component on the bench"
+ },
+ {
+  "name": "雜物包",
+  "name_en": "Doodad Bag",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "3-1 ~ 4-1",
+  "round_range_en": "3-1 to 4-1",
+  "effects": [
+   "獲得2件消耗品，能增加永久雙防或生命。",
+   "升級：獲得3件消耗品，能增加永久雙防或生命。"
+  ],
+  "notes": [
+   "【備註】必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier1.png",
+  "effect_en_base": "Gain 2 consumables that give permanent Armor and Magic Resist or Health.",
+  "effect_en_blossom": "Gain 3 consumables that give permanent Armor and Magic Resist or Health.",
+  "conditions_en": ""
+ },
+ {
+  "name": "雜物罐",
+  "name_en": "Doodad Jar",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "白銀",
+  "cost": "—",
+  "round_range": "2-1 ~ 2-7",
+  "round_range_en": "2-1 to 2-7",
+  "effects": [
+   "獲得1件消耗品，能增加永久雙防或生命。",
+   "升級（1）：獲得2件消耗品，能增加永久雙防或生命。"
+  ],
+  "notes": [
+   "【備註】兩個（雙防／生命、魔攻／魔力回復）都必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier1.png",
+  "effect_en_base": "Gain 1 consumable that gives permanent Armor and Magic Resist or Health.",
+  "effect_en_blossom": "Gain 2 consumables that give permanent Armor and Magic Resist or Health.",
+  "conditions_en": ""
+ },
+ {
+  "name": "提前修復",
+  "name_en": "Early Fix",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "白銀",
+  "cost": "0",
+  "round_range": "2-1 ~ 2-7",
+  "round_range_en": "2-1 to 2-7",
+  "effects": [
+   "獲得1台道具重鑄器。",
+   "升級：獲得2台道具重鑄器。"
+  ],
+  "notes": [
+   "【備註】必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier1.png",
+  "effect_en_base": "Gain 1 Item Reforger.",
+  "effect_en_blossom": "Gain 2 Item Reforgers.",
+  "conditions_en": ""
+ },
+ {
+  "name": "森林法師",
+  "name_en": "Forest Mage",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "白銀",
+  "cost": "0",
+  "round_range": "3-5 ~ 10-1",
+  "round_range_en": "3-5 to 10-1",
+  "effects": [
+   "商店滿是神火。不過只能買一個。",
+   "升級：商店滿是升級神火。不過只能買一個。"
+  ],
+  "notes": [
+   "【刷新條件】準備階段前 8 秒內",
+   "【備註】必拿。小知識：海克斯點神火給錢，這個可以領兩次。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier1.png",
+  "effect_en_base": "Fill your shop with Wisps. You can only buy one.",
+  "effect_en_blossom": "Fill your shop with upgraded Wisps. You can only buy one.",
+  "conditions_en": "First 8 seconds of planning"
+ },
+ {
+  "name": "小玩意包",
+  "name_en": "Knick-Knack Bag",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "3-1 ~ 4-1",
+  "round_range_en": "3-1 to 4-1",
+  "effects": [
+   "獲得2件消耗品，能增加永久物攻或攻速。",
+   "升級（2）：獲得3件消耗品，能增加永久物攻或攻速。"
+  ],
+  "notes": [
+   "【備註】不拿是棒槌。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier1.png",
+  "effect_en_base": "Gain 2 consumables that give permanent Attack Damage or Attack Speed.",
+  "effect_en_blossom": "Gain 3 consumables that give permanent Attack Damage or Attack Speed.",
+  "conditions_en": ""
+ },
+ {
+  "name": "小玩意罐",
+  "name_en": "Knick-Knack Jar",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "白銀",
+  "cost": "—",
+  "round_range": "2-1 ~ 2-7",
+  "round_range_en": "2-1 to 2-7",
+  "effects": [
+   "獲得1件消耗品，能增加永久物攻或攻速。",
+   "升級：獲得2件消耗品，能增加永久物攻或攻速。"
+  ],
+  "notes": [
+   "【備註】必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier1.png",
+  "effect_en_base": "Gain 1 consumable that gives permanent Attack Damage or Attack Speed.",
+  "effect_en_blossom": "Gain 2 consumables that give permanent Attack Damage or Attack Speed.",
+  "conditions_en": ""
+ },
+ {
+  "name": "打撈者",
+  "name_en": "Salvager",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "白銀",
+  "cost": "0",
+  "round_range": "4-2 ~ 5-7",
+  "round_range_en": "4-2 to 5-7",
+  "effects": [
+   "你加入備戰區的所有單位所裝備的道具都會被移除和分解。",
+   "升級：你加入備戰區的所有單位所裝備的道具都會被移除和分解。獲得2金錢。"
+  ],
+  "notes": [
+   "【備註】需要整理裝備、有空（不需要 D 牌）就拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier1.png",
+  "effect_en_base": "Any units you bench have items removed and broken apart.",
+  "effect_en_blossom": "Any units you bench have items removed and broken apart. Gain 2 Gold.",
+  "conditions_en": ""
+ },
+ {
+  "name": "雜物袋",
+  "name_en": "Thingamajig Bag",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "3-1 ~ 4-1",
+  "round_range_en": "3-1 to 4-1",
+  "effects": [
+   "獲得2件消耗品，能增加永久魔攻或魔力回復。",
+   "升級：獲得3件消耗品，能增加永久魔攻或魔力回復。"
+  ],
+  "notes": [
+   "【備註】必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier1.png",
+  "effect_en_base": "Gain 2 consumables that give permanent Ability Power or Mana Regen.",
+  "effect_en_blossom": "Gain 3 consumables that give permanent Ability Power or Mana Regen.",
+  "conditions_en": ""
+ },
+ {
+  "name": "雜物罐",
+  "name_en": "Thingamajig Jar",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "白銀",
+  "cost": "—",
+  "round_range": "2-1 ~ 2-7",
+  "round_range_en": "2-1 to 2-7",
+  "effects": [
+   "獲得1件消耗品，能增加永久魔攻或魔力回復。",
+   "升級（1）：獲得2件消耗品，能增加永久魔攻或魔力回復。"
+  ],
+  "notes": [
+   "【備註】兩個（雙防／生命、魔攻／魔力回復）都必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier1.png",
+  "effect_en_base": "Gain 1 consumable that gives permanent Ability Power or Mana Regen.",
+  "effect_en_blossom": "Gain 2 consumables that give permanent Ability Power or Mana Regen.",
+  "conditions_en": ""
+ },
+ {
+  "name": "爆炸藥水",
+  "name_en": "Blast Potion",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "3-1 ~ 4-7",
+  "round_range_en": "3-1 to 4-7",
+  "effects": [
+   "獲得1瓶暫時、可裝備的爆炸藥水。",
+   "升級：獲得1瓶暫時、可裝備的聖光爆炸藥水。"
+  ],
+  "notes": [
+   "【備註】四連勝以上，標記有一名拿了會影響勝負可考慮。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier1.png",
+  "effect_en_base": "Gain a temporary equippable Blast Potion.",
+  "effect_en_blossom": "Gain a temporary equippable Radiant Blast Potion.",
+  "conditions_en": ""
+ },
+ {
+  "name": "生命藥水",
+  "name_en": "Health Potion",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "3-1 ~ 4-7",
+  "round_range_en": "3-1 to 4-7",
+  "effects": [
+   "獲得1瓶暫時、可裝備的生命藥水。",
+   "升級：獲得1瓶暫時、可裝備的聖光生命藥水。"
+  ],
+  "notes": [
+   "【備註】四連勝以上，標記有一名拿了會影響勝負可考慮。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier1.png",
+  "effect_en_base": "Gain a tempoary equippable Health Potion.",
+  "effect_en_blossom": "Gain a temporary equippable Radiant Health Potion.",
+  "conditions_en": ""
+ },
+ {
+  "name": "初級混沌",
+  "name_en": "Lesser Chaos",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "2-1 ~ 3-4",
+  "round_range_en": "2-1 to 3-4",
+  "effects": [
+   "施放1個隨機神火。",
+   "升級：施放一個隨機神火，價值1金錢以上。"
+  ],
+  "notes": [
+   "【備註】建議拿。2-1～2-7 隨機神火價格期望約 1.51 元；3-1～3-4 約 2.26 元（均勻池估計）。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier1.png",
+  "effect_en_base": "Cast a random Wisp.",
+  "effect_en_blossom": "Cast a random Wisp worth 1 or more gold.",
+  "conditions_en": ""
+ },
+ {
+  "name": "魔力藥水",
+  "name_en": "Mana Potion",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "3-1 ~ 4-7",
+  "round_range_en": "3-1 to 4-7",
+  "effects": [
+   "獲得1瓶暫時、可裝備的魔力藥水。",
+   "升級：獲得1瓶暫時、可裝備的聖光魔力藥水。"
+  ],
+  "notes": [
+   "【備註】三階段：四連勝以上，標記有一名拿了會影響勝負可考慮。四階段：基本無腦拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier1.png",
+  "effect_en_base": "Gain a temporary equippable Mana Potion.",
+  "effect_en_blossom": "Gain a temporary equippable Radiant Mana Potion.",
+  "conditions_en": ""
+ },
+ {
+  "name": "大地形塑",
+  "name_en": "Terraforming",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "白銀",
+  "cost": "2",
+  "round_range": "4-2 ~ 10-1",
+  "round_range_en": "4-2 to 10-1",
+  "effects": [
+   "戰鬥開始時獲得5顆種子。",
+   "升級：戰鬥開始時獲得9顆種子。"
+  ],
+  "notes": [
+   "【刷新條件】綠父羈絆啟動",
+   "【備註】4-1 艾翁再考慮，且還得有 80 血以上。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier1.png",
+  "effect_en_base": "Gain 5 seeds at start of combat.",
+  "effect_en_blossom": "Gain 9 seeds at start of combat.",
+  "conditions_en": "Have Greenfather active"
+ },
+ {
+  "name": "雜物麻袋",
+  "name_en": "Doodad Sack",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "獲得3件消耗品，能增加永久雙防或生命。",
+   "升級：獲得4件消耗品，能增加永久雙防或生命。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier2.png",
+  "effect_en_base": "Gain 3 consumables that give permanent Armor and Magic Resist or Health.",
+  "effect_en_blossom": "Gain 4 consumables that give permanent Armor and Magic Resist or Health.",
+  "conditions_en": ""
+ },
+ {
+  "name": "小玩意布袋",
+  "name_en": "Knick-Knack Sack",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "獲得3件消耗品，能增加永久物攻或攻速。",
+   "升級：獲得4件消耗品，能增加永久物攻或攻速。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier2.png",
+  "effect_en_base": "Gain 3 consumables that give permanent Attack Damage or Attack Speed.",
+  "effect_en_blossom": "Gain 4 consumables that give permanent Attack Damage or Attack Speed.",
+  "conditions_en": ""
+ },
+ {
+  "name": "邪惡交易",
+  "name_en": "Sinister Deal",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "黃金",
+  "cost": "0",
+  "round_range": "2-1 ~ 3-4",
+  "round_range_en": "2-1 to 3-4",
+  "effects": [
+   "失去4玩家生命。獲得2金錢。",
+   "升級：失去3玩家生命。獲得3金錢。"
+  ],
+  "notes": [
+   "【刷新條件】玩家生命較高",
+   "【備註】必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier2.png",
+  "effect_en_base": "Lose 4 Player Health. Gain 2 Gold.",
+  "effect_en_blossom": "Lose 3 Player Health. Gain 3 Gold.",
+  "conditions_en": "Be on high health"
+ },
+ {
+  "name": "雜物布袋",
+  "name_en": "Thingamajig Sack",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "獲得3件消耗品，能增加永久魔攻或魔力回復。",
+   "升級：獲得4件消耗品，能增加永久魔攻或魔力回復。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier2.png",
+  "effect_en_base": "Gain 3 consumables that give permanent Ability Power or Mana Regen.",
+  "effect_en_blossom": "Gain 4 consumables that give permanent Ability Power or Mana Regen.",
+  "conditions_en": ""
+ },
+ {
+  "name": "治療池",
+  "name_en": "Healing Pool",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "黃金",
+  "cost": "2",
+  "round_range": "2-1 ~ 3-4",
+  "round_range_en": "2-1 to 3-4",
+  "effects": [
+   "回復5玩家生命。",
+   "升級：回復7玩家生命。"
+  ],
+  "notes": [
+   "【刷新條件】至少缺少 10 點玩家生命",
+   "【備註】目前沒想到需要拿的機會。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier2.png",
+  "effect_en_base": "Heal 5 Player Health.",
+  "effect_en_blossom": "Heal 7 Player Health.",
+  "conditions_en": "Be missing 10 or more health"
+ },
+ {
+  "name": "小小血之儀式",
+  "name_en": "Minor Blood Ritual",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "2-1 ~ 3-4",
+  "round_range_en": "2-1 to 3-4",
+  "effects": [
+   "失去3玩家生命。獲得1件初級英雄複製裝置；",
+   "升級：失去1玩家生命。獲得1件初級英雄複製裝置。"
+  ],
+  "notes": [
+   "【刷新條件】玩家生命較高",
+   "【備註】建議拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier2.png",
+  "effect_en_base": "Lose 3 Player Health. Gain a Lesser Champion Duplicator.",
+  "effect_en_blossom": "Lose 1 Player Health. Gain a Lesser Champion Duplicator.",
+  "conditions_en": "Be on high health"
+ },
+ {
+  "name": "藥水製作",
+  "name_en": "Potioncraft",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "獲得3瓶暫時、可裝備的藥水。",
+   "升級：獲得3瓶暫時、可裝備的聖光藥水。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier2.png",
+  "effect_en_base": "Gain three temporary equippable Potions.",
+  "effect_en_blossom": "Gain three temporary equippable Radiant Potions.",
+  "conditions_en": ""
+ },
+ {
+  "name": "高級混亂",
+  "name_en": "Greater Chaos",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "稜彩",
+  "cost": "4",
+  "round_range": "5-1 ~ 10-1",
+  "round_range_en": "5-1 to 10-1",
+  "effects": [
+   "施放隨機2個神火。",
+   "升級：施放2個隨機神火，價值 2以上。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier3.png",
+  "effect_en_base": "Cast 2 random Wisps.",
+  "effect_en_blossom": "Cast 2 random Wisps worth 2 or more gold.",
+  "conditions_en": ""
+ },
+ {
+  "name": "血之儀式",
+  "name_en": "Blood Ritual",
+  "category": "雜項",
+  "category_en": "Misc",
+  "rarity": "稜彩",
+  "cost": "6",
+  "round_range": "4-2 ~ 4-7",
+  "round_range_en": "4-2 to 4-7",
+  "effects": [
+   "失去10玩家生命。獲得1件英雄複製裝置。",
+   "升級：失去8玩家生命。獲得1件英雄複製器。"
+  ],
+  "notes": [
+   "【刷新條件】玩家生命較高",
+   "【備註】當下有五費 2 星，或血太多 → 拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_misc_tier3.png",
+  "effect_en_base": "Lose 10 Player Health. Gain a Champion Duplicator.",
+  "effect_en_blossom": "Lose 8 Player Health. Gain a Champion Duplicator.",
+  "conditions_en": "Be on high health"
+ },
+ {
+  "name": "稍稍變形",
+  "name_en": "Minor Polymorph",
+  "category": "風險",
+  "category_en": "Risky",
+  "rarity": "白銀",
+  "cost": "0",
+  "round_range": "2-1 ~ 3-4",
+  "round_range_en": "2-1 to 3-4",
+  "effects": [
+   "你擁有的一個隨機1費單位永久轉變成2費單位。",
+   "升級：你擁有的最高星等1費單位永久轉變成2費單位。"
+  ],
+  "notes": [
+   "【刷新條件】場上有對應費用的單位",
+   "【備註】建議拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_risky_tier1.png",
+  "effect_en_base": "A random 1-cost you own permanently transforms into a 2-cost.",
+  "effect_en_blossom": "The highest star level 1-cost you own permanently transforms into a 2-cost.",
+  "conditions_en": "Have units of the required cost"
+ },
+ {
+  "name": "變形",
+  "name_en": "Polymorph",
+  "category": "風險",
+  "category_en": "Risky",
+  "rarity": "白銀",
+  "cost": "0",
+  "round_range": "2-1 ~ 4-1",
+  "round_range_en": "2-1 to 4-1",
+  "effects": [
+   "你擁有的一個隨機2費單位永久轉變成3費單位。",
+   "升級：我方擁有的最高星等2費單位永久變成3費單位。"
+  ],
+  "notes": [
+   "【刷新條件】場上有對應費用的單位",
+   "【備註】沒有關鍵棋子都建議拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_risky_tier1.png",
+  "effect_en_base": "A random 2-cost you own permanently transforms into a 3-cost.",
+  "effect_en_blossom": "The highest star level 2-cost you own permanently transforms into a 3-cost.",
+  "conditions_en": "Have units of the required cost"
+ },
+ {
+  "name": "乾旱",
+  "name_en": "Drought",
+  "category": "風險",
+  "category_en": "Risky",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "2-1 ~ 2-7",
+  "round_range_en": "2-1 to 2-7",
+  "effects": [
+   "將2加入你的連敗紀錄。",
+   "升級：連敗數加3。"
+  ],
+  "notes": [
+   "【刷新條件】需有連勝或連敗（非平手 streak）",
+   "【備註】2-1：巡邏外面一家以下可擺爛（空城）五連敗獲利 (1+1+2+3+3+3-7=6) 元；觀察後可拿。",
+   "2-3：原先二連敗獲利 (2+3+3+3-1-2-2-2=4) 元；一連敗獲利 (1+2+3+3-7=2) 元。一連敗卡利息不拿，二連敗觀察後基本可拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_risky_tier1.png",
+  "effect_en_base": "Add 2 to your loss streak.",
+  "effect_en_blossom": "Add 3 to your loss streak.",
+  "conditions_en": "Be on a win or loss streak"
+ },
+ {
+  "name": "奪魄銷魂",
+  "name_en": "Essence Theft",
+  "category": "風險",
+  "category_en": "Risky",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "2-1 ~ 4-1",
+  "round_range_en": "2-1 to 4-1",
+  "effects": [
+   "本場戰鬥獲得50%額外女巫精華。",
+   "升級：本場戰鬥獲得90%額外女巫精華。"
+  ],
+  "notes": [
+   "【刷新條件】女巫集會羈絆啟動",
+   "【備註】能多打 10 層以上都可以拿（10 層約等於 1 元）。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_risky_tier1.png",
+  "effect_en_base": "Gain 50% bonus Coven Essence this combat.",
+  "effect_en_blossom": "Gain 90% bonus Coven Essence this combat.",
+  "conditions_en": "Have Coven active"
+ },
+ {
+  "name": "施肥",
+  "name_en": "Fertilize",
+  "category": "風險",
+  "category_en": "Risky",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "2-1 ~ 3-4",
+  "round_range_en": "2-1 to 3-4",
+  "effects": [
+   "每有一名敵軍死亡，獲得1經驗值。",
+   "升級：每有一名敵軍死亡，獲得1經驗值。獲得2經驗值。"
+  ],
+  "notes": [
+   "【備註】自己質量不錯、能殺兩隻以上 → 建議拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_risky_tier1.png",
+  "effect_en_base": "Gain 1 XP for each enemy that dies.",
+  "effect_en_blossom": "Gain 1 XP for each enemy that dies. Gain 2 XP.",
+  "conditions_en": ""
+ },
+ {
+  "name": "狂濤",
+  "name_en": "Flood",
+  "category": "風險",
+  "category_en": "Risky",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "2-1 ~ 2-7",
+  "round_range_en": "2-1 to 2-7",
+  "effects": [
+   "連勝數加1。",
+   "升級：連勝數加2。"
+  ],
+  "notes": [
+   "【刷新條件】需有連勝或連敗（非平手 streak）",
+   "【備註】2-1：能贏四家且不卡利息可拿（期望值為正）。",
+   "2-3 之後：最多只能有一家打不贏才拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_risky_tier1.png",
+  "effect_en_base": "Add 1 to your win streak.",
+  "effect_en_blossom": "Add 2 to your win streak.",
+  "conditions_en": "Be on a win or loss streak"
+ },
+ {
+  "name": "微小開局",
+  "name_en": "Minor Gambit",
+  "category": "風險",
+  "category_en": "Risky",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "2-1 ~ 2-7",
+  "round_range_en": "2-1 to 2-7",
+  "effects": [
+   "若贏得下一場玩家戰鬥，獲得2金錢。",
+   "升級：若你贏得下一場玩家戰鬥，獲得3金錢。"
+  ],
+  "notes": [
+   "【刷新條件】短連敗中；女巫集會羈絆未啟動",
+   "【備註】有 X（連敗）的對手一半以上比你弱時可拿（約",
+   "7/2",
+   "=4 人弱於你）。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_risky_tier1.png",
+  "effect_en_base": "If you win the next player combat, gain 2 Gold.",
+  "effect_en_blossom": "If you win the next player combat, gain 3 Gold.",
+  "conditions_en": "Be on a short loss streak, Have Coven inactive"
+ },
+ {
+  "name": "隨身帶著走",
+  "name_en": "Take One With Ya",
+  "category": "風險",
+  "category_en": "Risky",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "2-1 ~ 2-7",
+  "round_range_en": "2-1 to 2-7",
+  "effects": [
+   "若你落敗但至少擊殺一名敵軍，獲得4經驗值。",
+   "升級：若你落敗但至少擊殺1名敵軍，獲得6經驗值。"
+  ],
+  "notes": [
+   "【刷新條件】短連勝中",
+   "【備註】條件：4(x−n)/x > 1（即 n < 0.75x）；x＝對戰標記，n＝可打贏的對象。重點標記：x=3 時 n=1～2；x=5 時 n=1～3；x=7 時 n=1～5。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_risky_tier1.png",
+  "effect_en_base": "If you lose and kill at least one enemy, gain 4 XP.",
+  "effect_en_blossom": "If you lose and kill at least one enemy, gain 6 XP.",
+  "conditions_en": "Be on a short win streak"
+ },
+ {
+  "name": "獎盃獵手",
+  "name_en": "Trophy Hunter",
+  "category": "風險",
+  "category_en": "Risky",
+  "rarity": "白銀",
+  "cost": "2",
+  "round_range": "2-1 ~ 4-7",
+  "round_range_en": "2-1 to 4-7",
+  "effects": [
+   "下一場玩家戰鬥，你的仇敵參與擊殺數以兩倍計算。"
+  ],
+  "notes": [
+   "【刷新條件】宿敵羈絆啟動",
+   "【備註】基本不考慮，太貴（一層約 0.25 元）；只為經濟不拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_risky_tier1.png",
+  "effect_en_base": "Next player combat, your Rivals' takedowns count twice.",
+  "effect_en_blossom": "",
+  "conditions_en": "Have Rival active"
+ },
+ {
+  "name": "組件賞金",
+  "name_en": "Component Bounty",
+  "category": "風險",
+  "category_en": "Risky",
+  "rarity": "白銀",
+  "cost": "4",
+  "round_range": "3-1 ~ 4-7",
+  "round_range_en": "3-1 to 4-7",
+  "effects": [
+   "若贏得下一場玩家戰鬥，獲得1個隨機組件。"
+  ],
+  "notes": [
+   "【刷新條件】短連敗中",
+   "【備註】除非強到離譜，不然不可能拿（必勝才考慮）。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_risky_tier1.png",
+  "effect_en_base": "If you win the next player combat, gain a random component.",
+  "effect_en_blossom": "",
+  "conditions_en": "Be on a short loss streak"
+ },
+ {
+  "name": "大幅變形",
+  "name_en": "Major Polymorph",
+  "category": "風險",
+  "category_en": "Risky",
+  "rarity": "黃金",
+  "cost": "0",
+  "round_range": "4-2 ~ 5-7",
+  "round_range_en": "4-2 to 5-7",
+  "effects": [
+   "你擁有的一個隨機4費單位永久轉變成5費單位。",
+   "升級：我方擁有的最高星等4費單位永久變成5費單位。"
+  ],
+  "notes": [
+   "【刷新條件】場上有對應費用的單位",
+   "【備註】沒壓力要上九可以點；其他不點。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_risky_tier2.png",
+  "effect_en_base": "A random 4-cost you own permanently transforms into a 5-cost.",
+  "effect_en_blossom": "The highest star level 4-cost you own permanently transforms into a 5-cost.",
+  "conditions_en": "Have units of the required cost"
+ },
+ {
+  "name": "擲幣狂熱",
+  "name_en": "Flip Frenzy",
+  "category": "風險",
+  "category_en": "Risky",
+  "rarity": "黃金",
+  "cost": "1",
+  "round_range": "3-1 ~ 4-1",
+  "round_range_en": "3-1 to 4-1",
+  "effects": [
+   "擲硬幣，若為正面，獲得1金錢。繼續投擲直到擲出反面為止。"
+  ],
+  "notes": [
+   "【備註】期望值＝0，加上機率體感有問題 → 必拿（可看底下的牌）。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_risky_tier2.png",
+  "effect_en_base": "Flip a coin, gain 1 gold if it's heads. Continue until you flip tails.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "黃金之路",
+  "name_en": "Golden Road",
+  "category": "風險",
+  "category_en": "Risky",
+  "rarity": "黃金",
+  "cost": "2",
+  "round_range": "2-1 ~ 3-4",
+  "round_range_en": "2-1 to 3-4",
+  "effects": [
+   "在3場玩家戰鬥後，每勝一場獲得2金錢。",
+   "升級：在3場玩家戰鬥後，每勝一場獲得2金錢，再加1金錢。"
+  ],
+  "notes": [
+   "【刷新條件】短連敗中",
+   "【備註】x＝標記對手，n＝打得過的對手。x=2→n=1；x=3→n=2；x=4→n=2～3；x=5→n=2～4；x=6→n=3～5；x=7→n=3～6；x=8→n=3～7。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_risky_tier2.png",
+  "effect_en_base": "After 3 player combats, gain 2 Gold per fight won.",
+  "effect_en_blossom": "After 3 player combats, gain 2 Gold per fight won plus 1 Gold.",
+  "conditions_en": "Be on a short loss streak"
+ },
+ {
+  "name": "竊賊",
+  "name_en": "Cutpurse",
+  "category": "風險",
+  "category_en": "Risky",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "3-5 ~ 4-7",
+  "round_range_en": "3-5 to 4-7",
+  "effects": [
+   "每5秒，你的英雄有15%機率掉落1金錢。",
+   "升級：每4秒，你的英雄有15%機率掉落1金錢。"
+  ],
+  "notes": [
+   "【備註】能打超過 18 秒再拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_risky_tier2.png",
+  "effect_en_base": "Every 5 seconds, your champions have a 15% chance to drop 1 Gold.",
+  "effect_en_blossom": "Every 4 seconds, your champions have a 15% chance to drop 1 Gold.",
+  "conditions_en": ""
+ },
+ {
+  "name": "優勢開局",
+  "name_en": "Major Gambit",
+  "category": "風險",
+  "category_en": "Risky",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "4-2 ~ 5-7",
+  "round_range_en": "4-2 to 5-7",
+  "effects": [
+   "若贏得下一場玩家戰鬥，獲得8金錢。",
+   "升級：若你贏得下一場戰鬥，獲得10金錢。"
+  ],
+  "notes": [
+   "【刷新條件】短連敗中",
+   "【備註】標記對手一半以上打得過才拿；啟動回合拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_risky_tier2.png",
+  "effect_en_base": "If you win the next player combat, gain 8 Gold.",
+  "effect_en_blossom": "If you win next combat, gain 10 Gold.",
+  "conditions_en": "Be on a short loss streak"
+ },
+ {
+  "name": "發薪日",
+  "name_en": "Payday",
+  "category": "風險",
+  "category_en": "Risky",
+  "rarity": "黃金",
+  "cost": "4",
+  "round_range": "3-5 ~ 4-7",
+  "round_range_en": "3-5 to 4-7",
+  "effects": [
+   "每有一位友方英雄在戰鬥中存活，獲得2金錢。",
+   "升級：每有一位友方英雄在戰鬥中存活，獲得3金錢。"
+  ],
+  "notes": [
+   "【備註】標記只要有兩個打得過就拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_risky_tier2.png",
+  "effect_en_base": "For each ally champion that survives combat, gain 2 Gold.",
+  "effect_en_blossom": "For each ally champion that survives combat, gain 3 Gold.",
+  "conditions_en": ""
+ },
+ {
+  "name": "策略性損失",
+  "name_en": "Good Loss",
+  "category": "風險",
+  "category_en": "Risky",
+  "rarity": "黃金",
+  "cost": "5",
+  "round_range": "3-1 ~ 4-1",
+  "round_range_en": "3-1 to 4-1",
+  "effects": [
+   "在接下來的3次玩家戰鬥中，落敗可獲得4經驗值。",
+   "升級：在接下來的3場玩家戰鬥中，落敗可獲得6經驗值。"
+  ],
+  "notes": [
+   "【刷新條件】短連勝中",
+   "【備註】接下來六個標記對手最多只能有一名擺爛 → 可考慮拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_risky_tier2.png",
+  "effect_en_base": "For the next 3 player combats, gain 4 XP if you lose.",
+  "effect_en_blossom": "For the next 3 player combats, gain 6 XP if you lose.",
+  "conditions_en": "Be on a short win streak"
+ },
+ {
+  "name": "棄船",
+  "name_en": "Abandon Ship",
+  "category": "風險",
+  "category_en": "Risky",
+  "rarity": "稜彩",
+  "cost": "0",
+  "round_range": "3-1 ~ 3-4",
+  "round_range_en": "3-1 to 3-4",
+  "effects": [
+   "出售我方盤面和備戰區所有英雄，獲得6金錢和10次重抽。",
+   "升級：出售我方盤面和備戰區所有英雄，獲得10金錢和12次重抽。"
+  ],
+  "notes": [
+   "【刷新條件】沒有 3 星英雄；棋盤價值介於 12～20；短連勝中；準備階段前 15 秒內",
+   "【備註】不拿是棒槌。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_risky_tier3.png",
+  "effect_en_base": "Sell your board and bench, gain 6 gold and 10 rerolls.",
+  "effect_en_blossom": "Sell your board and bench, gain 10 gold and 12 rerolls.",
+  "conditions_en": "Have no 3-star champions, Board value between 12 and 20, Be on a short win streak, First 15 seconds of planning"
+ },
+ {
+  "name": "一律四費",
+  "name_en": "All Fours",
+  "category": "商店",
+  "category_en": "Shop",
+  "rarity": "白銀",
+  "cost": "4",
+  "round_range": "5-1 ~ 5-7",
+  "round_range_en": "5-1 to 5-7",
+  "effects": [
+   "將商店全數轉變成4費英雄。",
+   "升級：將商店全數轉變成4費英雄。獲得2金錢。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_shop_tier1.png",
+  "effect_en_base": "Reroll your shop with all 4-cost champions.",
+  "effect_en_blossom": "Reroll your shop with all 4-cost champions. Gain 2 gold.",
+  "conditions_en": ""
+ },
+ {
+  "name": "一律一費",
+  "name_en": "All Ones",
+  "category": "商店",
+  "category_en": "Shop",
+  "rarity": "白銀",
+  "cost": "—",
+  "round_range": "2-1 ~ 2-7",
+  "round_range_en": "2-1 to 2-7",
+  "effects": [
+   "將商店全數轉變成1費英雄。",
+   "升級：將商店全數轉變成1費英雄。獲得1金錢。"
+  ],
+  "notes": [
+   "【備註】必拿；記得先把其他牌拿下來。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_shop_tier1.png",
+  "effect_en_base": "Reroll your shop with all 1-cost champions.",
+  "effect_en_blossom": "Reroll your shop with all 1-cost champions. Gain 1 Gold.",
+  "conditions_en": ""
+ },
+ {
+  "name": "一律三費",
+  "name_en": "All Threes",
+  "category": "商店",
+  "category_en": "Shop",
+  "rarity": "白銀",
+  "cost": "2",
+  "round_range": "3-5 ~ 4-7",
+  "round_range_en": "3-5 to 4-7",
+  "effects": [
+   "將商店全數轉變成3費英雄。",
+   "升級：將商店全數轉變成3費英雄。獲得2金錢。"
+  ],
+  "notes": [
+   "【備註】賭狗，或有關鍵對子建議拿。例：獅子狗、蛇女、人馬、菲艾。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_shop_tier1.png",
+  "effect_en_base": "Reroll your shop with all 3-cost champions.",
+  "effect_en_blossom": "Reroll your shop with all 3-cost champions. Gain 2 gold.",
+  "conditions_en": ""
+ },
+ {
+  "name": "一律兩費",
+  "name_en": "All Twos",
+  "category": "商店",
+  "category_en": "Shop",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "2-1 ~ 3-4",
+  "round_range_en": "2-1 to 3-4",
+  "effects": [
+   "將商店全數轉變成2費英雄。",
+   "升級：將商店全數轉變成2費英雄。獲得1金錢。"
+  ],
+  "notes": [
+   "【備註】賭狗拿；或有蛇女／卡蜜兒找女巫時拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_shop_tier1.png",
+  "effect_en_base": "Reroll your shop with all 2-cost champions.",
+  "effect_en_blossom": "Reroll your shop with all 2-cost champions. Gain 1 gold.",
+  "conditions_en": ""
+ },
+ {
+  "name": "殞星召喚",
+  "name_en": "Starfall",
+  "category": "商店",
+  "category_en": "Shop",
+  "rarity": "白銀",
+  "cost": "1",
+  "round_range": "3-1 ~ 4-1",
+  "round_range_en": "3-1 to 4-1",
+  "effects": [
+   "本回合前6次刷新商店時，最低費的英雄升到2星。",
+   "升級：本回合前8次刷新商店時，最低費的英雄升到2星。"
+  ],
+  "notes": [
+   "【備註】賭狗或想反打 → 建議拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_shop_tier1.png",
+  "effect_en_base": "The first 6 times you reroll your shop this round, the lowest cost champion becomes 2-star.",
+  "effect_en_blossom": "The first 8 times you reroll your shop this round, the lowest cost champion becomes 2-star.",
+  "conditions_en": ""
+ },
+ {
+  "name": "閃光火焰",
+  "name_en": "Flash Fire",
+  "category": "商店",
+  "category_en": "Shop",
+  "rarity": "白銀",
+  "cost": "2",
+  "round_range": "3-5 ~ 5-7",
+  "round_range_en": "3-5 to 5-7",
+  "effects": [
+   "刷新商店。地獄火使者點燃2個商店欄位，使其升級。",
+   "升級：刷新商店。地獄火使者點燃3個商店欄位，使其升級。"
+  ],
+  "notes": [
+   "【刷新條件】煉獄羈絆啟動",
+   "【備註】不是死亡回血 → 必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_shop_tier1.png",
+  "effect_en_base": "Reroll your shop. Inferno lights 2 shop slots on fire, upgrading them.",
+  "effect_en_blossom": "Reroll your shop. Inferno lights 3 shop slots on fire, upgrading them.",
+  "conditions_en": "Have Inferno active"
+ },
+ {
+  "name": "抽抽樂",
+  "name_en": "Freeroller",
+  "category": "商店",
+  "category_en": "Shop",
+  "rarity": "白銀",
+  "cost": "2",
+  "round_range": "2-1 ~ 4-1",
+  "round_range_en": "2-1 to 4-1",
+  "effects": [
+   "獲得2次重抽機會。",
+   "升級：獲得3次重抽機會。"
+  ],
+  "notes": [
+   "【備註】不卡利息就拿；若會卡利息超過兩次不拿。例：第一個 10 塊不會進選秀的 20。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_shop_tier1.png",
+  "effect_en_base": "Gain 2 rerolls.",
+  "effect_en_blossom": "Gain 3 rerolls.",
+  "conditions_en": ""
+ },
+ {
+  "name": "搜索隊",
+  "name_en": "Search Party",
+  "category": "商店",
+  "category_en": "Shop",
+  "rarity": "白銀",
+  "cost": "3",
+  "round_range": "3-5 ~ 4-7",
+  "round_range_en": "3-5 to 4-7",
+  "effects": [
+   "本回合你的每個商店都有1個4費單位，直到你購買一個為止。"
+  ],
+  "notes": [
+   "【備註】基本不可能拿；除非低等 D，但有一張關鍵四費提升巨大。例：原本的狼人石頭人。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_shop_tier1.png",
+  "effect_en_base": "Each of your shops has a 4-cost in it this round until you buy one.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "幸運7",
+  "name_en": "Lucky 7",
+  "category": "商店",
+  "category_en": "Shop",
+  "rarity": "黃金",
+  "cost": "7",
+  "round_range": "6-1 ~ 10-1",
+  "round_range_en": "6-1 to 10-1",
+  "effects": [
+   "獲得7次商店重抽機會。",
+   "升級：獲得10次商店重抽。",
+   "稜彩（0）：獲得777次商店重抽機會。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_shop_tier2.png",
+  "effect_en_base": "Gain 7 shop rerolls.",
+  "effect_en_blossom": "Gain 10 shop rerolls.",
+  "conditions_en": ""
+ },
+ {
+  "name": "中路",
+  "name_en": "Middle Path",
+  "category": "商店",
+  "category_en": "Shop",
+  "rarity": "黃金",
+  "cost": "6",
+  "round_range": "3-5 ~ 4-7",
+  "round_range_en": "3-5 to 4-7",
+  "effects": [
+   "將商店全數轉變成2星3費英雄。"
+  ],
+  "notes": [
+   "【備註】三費賭狗拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_shop_tier2.png",
+  "effect_en_base": "Reroll your shop with all 2-star 3-cost champions.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "振奮之光",
+  "name_en": "Refreshing Light",
+  "category": "商店",
+  "category_en": "Shop",
+  "rarity": "黃金",
+  "cost": "6",
+  "round_range": "3-5 ~ 4-7",
+  "round_range_en": "3-5 to 4-7",
+  "effects": [
+   "不同日輝英雄每有一星等，便獲得1次免費重抽。"
+  ],
+  "notes": [
+   "【刷新條件】日輝羈絆啟動",
+   "【備註】必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_shop_tier2.png",
+  "effect_en_base": "Gain a free reroll per star level of each unique Solar champion.",
+  "effect_en_blossom": "",
+  "conditions_en": "Have Solar active"
+ },
+ {
+  "name": "滾動之骨",
+  "name_en": "Rolling Bones",
+  "category": "商店",
+  "category_en": "Shop",
+  "rarity": "黃金",
+  "cost": "3",
+  "round_range": "3-1 ~ 4-7",
+  "round_range_en": "3-1 to 4-7",
+  "effects": [
+   "你每擊殺1名敵人，就有50%機會獲得1次免費重抽。",
+   "升級：每次擊殺時有60%機率獲得一次重抽機會，若獲勝則額外獲得1次。"
+  ],
+  "notes": [
+   "【備註】能殺三隻、質量不錯 → 必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_shop_tier2.png",
+  "effect_en_base": "You have a 50% chance to get a free reroll with each kill.",
+  "effect_en_blossom": "60% chance to get a reroll with each kill, and 1 more if you win.",
+  "conditions_en": ""
+ },
+ {
+  "name": "打野",
+  "name_en": "Jungling",
+  "category": "商店",
+  "category_en": "Shop",
+  "rarity": "黃金",
+  "cost": "4",
+  "round_range": "3-1 ~ 4-7",
+  "round_range_en": "3-1 to 4-7",
+  "effects": [
+   "峽谷巨獸入侵商店！"
+  ],
+  "notes": [
+   "【刷新條件】裂谷野獸羈絆啟動",
+   "【備註】不是玩純野怪 → 不拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_shop_tier2.png",
+  "effect_en_base": "Overrun the shop with Riftbeasts.",
+  "effect_en_blossom": "",
+  "conditions_en": "Have Riftbeast active"
+ },
+ {
+  "name": "不倒翁",
+  "name_en": "Roly-Polys",
+  "category": "商店",
+  "category_en": "Shop",
+  "rarity": "黃金",
+  "cost": "4",
+  "round_range": "3-1 ~ 4-1",
+  "round_range_en": "3-1 to 4-1",
+  "effects": [
+   "18秒後，每有一名友方英雄存活，獲得1次重抽。",
+   "升級：16秒後，每有一名友方英雄存活，獲得1次重抽。"
+  ],
+  "notes": [
+   "【備註】有坦裝必拿；有質量也必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_shop_tier2.png",
+  "effect_en_base": "For each ally champion alive after 18 seconds, gain a reroll.",
+  "effect_en_blossom": "For each ally champion alive after 16 seconds, gain a reroll.",
+  "conditions_en": ""
+ },
+ {
+  "name": "動態商店",
+  "name_en": "Animate Shop",
+  "category": "商店",
+  "category_en": "Shop",
+  "rarity": "黃金",
+  "cost": "8",
+  "round_range": "4-2 ~ 5-7",
+  "round_range_en": "4-2 to 5-7",
+  "effects": [
+   "18秒內，你的商店每2秒會免費刷新一次。",
+   "升級：在26秒內，你的商店每2秒免費重抽一次。"
+  ],
+  "notes": [
+   "【備註】要抽牌才拿；可先調好裝備、站位。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_shop_tier2.png",
+  "effect_en_base": "For 18 seconds, your shop rerolls for free every 2 seconds.",
+  "effect_en_blossom": "For 26 seconds, your shop rerolls for free every 2 seconds.",
+  "conditions_en": ""
+ },
+ {
+  "name": "一律五費",
+  "name_en": "All Fives",
+  "category": "商店",
+  "category_en": "Shop",
+  "rarity": "稜彩",
+  "cost": "10",
+  "round_range": "6-1 ~ 10-1",
+  "round_range_en": "6-1 to 10-1",
+  "effects": [
+   "將商店全數轉變成5費英雄。",
+   "升級：將商店全數轉變成5費英雄。獲得5金錢。"
+  ],
+  "notes": [],
+  "has_personal_note": false,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_shop_tier3.png",
+  "effect_en_base": "Reroll your shop with all 5-cost champions.",
+  "effect_en_blossom": "Reroll your shop with all 5-cost champions. Gain 5 gold.",
+  "conditions_en": ""
+ },
+ {
+  "name": "邊境村莊",
+  "name_en": "Border Village",
+  "category": "商店",
+  "category_en": "Shop",
+  "rarity": "稜彩",
+  "cost": "6",
+  "round_range": "3-1 ~ 4-1",
+  "round_range_en": "3-1 to 4-1",
+  "effects": [
+   "將商店全數轉變成2星2費英雄。"
+  ],
+  "notes": [
+   "【備註】要反打、賭狗、連勝蛋且低星多（譬如裝備打連勝）可補；可直接上九。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_shop_tier3.png",
+  "effect_en_base": "Reroll your shop with all 2-star 2-cost champions.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "起始城鎮",
+  "name_en": "Starting Town",
+  "category": "商店",
+  "category_en": "Shop",
+  "rarity": "稜彩",
+  "cost": "3",
+  "round_range": "2-1 ~ 3-4",
+  "round_range_en": "2-1 to 3-4",
+  "effects": [
+   "將商店全數轉變成2星1費英雄。"
+  ],
+  "notes": [
+   "【備註】賭狗才拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_shop_tier3.png",
+  "effect_en_base": "Reroll your shop with all 2-star 1-cost champions.",
+  "effect_en_blossom": "",
+  "conditions_en": ""
+ },
+ {
+  "name": "乘風破浪",
+  "name_en": "Ride the Wave",
+  "category": "商店",
+  "category_en": "Shop",
+  "rarity": "稜彩",
+  "cost": "3",
+  "round_range": "4-2 ~ 5-7",
+  "round_range_en": "4-2 to 5-7",
+  "effects": [
+   "本回合接下來2次重抽中，至少會包含2名上一場戰鬥曾部署的英雄。",
+   "升級：本回合接下來3次重抽中，至少會包含2名上一場戰鬥曾部署的英雄。"
+  ],
+  "notes": [
+   "【刷新條件】準備階段前 20 秒內；至少持有 20 金幣",
+   "【備註】關鍵卡沒二星 → 必拿。"
+  ],
+  "has_personal_note": true,
+  "official_zh_source": true,
+  "icon": "t_shopcardsicon18_shop_tier3.png",
+  "effect_en_base": "The next 2 rerolls this round will have 2+ champions fielded last combat.",
+  "effect_en_blossom": "The next 3 rerolls this round will have 2+ champions fielded last combat.",
+  "conditions_en": "First 20 seconds of planning, Have at least 20 gold"
+ }
+]
