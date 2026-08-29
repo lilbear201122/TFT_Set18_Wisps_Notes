@@ -173,6 +173,20 @@ for ei, ew in enumerate(en):
         'conditions_en': ew['conditions'],
     })
 
+# --- manual note overrides (data/note_overrides.json), keyed by name_en ---
+# These are edits the user asked for directly in conversation (not present in the source docx),
+# so they must survive re-running 1_extract_docx.py against an unchanged/older docx.
+override_path = os.path.join(DATA, 'note_overrides.json')
+if os.path.exists(override_path):
+    note_overrides = json.load(open(override_path, encoding='utf-8'))
+    by_name_en = {w['name_en']: w for w in final}
+    for name_en, notes in note_overrides.items():
+        if name_en in by_name_en:
+            by_name_en[name_en]['notes'] = notes
+            by_name_en[name_en]['has_personal_note'] = True
+        else:
+            print(f'WARNING: note_overrides.json has unknown name_en {name_en!r}, skipped')
+
 out_path = os.path.join(DATA, 'wisps_final.json')
 with open(out_path, 'w', encoding='utf-8') as f:
     json.dump(final, f, ensure_ascii=False, indent=1)
