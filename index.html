@@ -53,7 +53,17 @@ details.meta { margin: 14px 0 22px; background: var(--panel); border: 1px solid 
 details.meta summary { cursor: pointer; color: var(--text-dim); font-size: 13px; }
 details.meta[open] summary { margin-bottom: 8px; }
 
-.controls { background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; margin-bottom: 18px; }
+.controls {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 14px 16px;
+  margin-bottom: 18px;
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  box-shadow: 0 8px 16px -8px rgba(0,0,0,0.5);
+}
 .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 10px; }
 .row:last-child { margin-bottom: 0; }
 .row-label { color: var(--text-faint); font-size: 12px; width: 68px; flex-shrink: 0; }
@@ -136,6 +146,35 @@ details.meta[open] summary { margin-bottom: 8px; }
 
 .notes { border-top: 1px dashed var(--border); padding-top: 8px; margin-top: 8px; }
 .notes div { font-size: 12px; color: var(--text-dim); margin-bottom: 3px; }
+.notes .local-flag { display: inline-block; font-size: 10px; color: var(--accent); border: 1px solid var(--accent); border-radius: 999px; padding: 0 6px; margin-bottom: 4px; }
+
+#editModeBtn.active { background: var(--accent); border-color: var(--accent); color: #0f1115; font-weight: 700; }
+#editTools { display: none; gap: 8px; align-items: center; flex-wrap: wrap; }
+#editTools .hint { color: var(--text-faint); font-size: 12px; }
+
+.notes-edit { border-top: 1px dashed var(--border); padding-top: 8px; margin-top: 8px; }
+.note-editor {
+  width: 100%;
+  min-height: 64px;
+  background: var(--panel2);
+  border: 1px solid var(--accent);
+  color: var(--text);
+  border-radius: 6px;
+  padding: 6px 8px;
+  font-size: 12px;
+  font-family: inherit;
+  resize: vertical;
+  outline: none;
+}
+.mini-btn {
+  background: none;
+  border: none;
+  color: var(--accent);
+  font-size: 11px;
+  cursor: pointer;
+  padding: 4px 0 0;
+  text-decoration: underline;
+}
 
 .en-ref { border-top: 1px dashed var(--border); padding-top: 8px; margin-top: 8px; }
 .en-ref div { font-size: 12px; color: #7a8194; margin-bottom: 3px; font-style: italic; }
@@ -237,6 +276,12 @@ table.simple th { color: var(--text-dim); font-weight: 600; background: var(--pa
       <label class="toggle"><input type="checkbox" id="showUpgrade" checked> 顯示升級效果</label>
       <label class="toggle"><input type="checkbox" id="onlyNoted"> 只看已寫個人筆記</label>
       <label class="toggle"><input type="checkbox" id="showEn"> 顯示 MetaTFT 英文原文</label>
+      <button id="editModeBtn" class="chip">✏️ 編輯模式</button>
+      <div id="editTools">
+        <span class="hint">修改先存在這個瀏覽器裡，記得定期下載備份：</span>
+        <button id="downloadOverrides" class="chip">下載 note_overrides.json</button>
+        <button id="clearOverrides" class="chip">清除全部本機修改</button>
+      </div>
     </div>
   </div>
 
@@ -269,7 +314,30 @@ function overlaps(ranges, lo, hi) {
   return ranges.some(([a, b]) => a !== null && b !== null && a <= hi && b >= lo);
 }
 
-const state = { rarity: '全部', category: '全部', round: '全部', search: '', showUpgrade: true, onlyNoted: false, showEn: false };
+const state = { rarity: '全部', category: '全部', round: '全部', search: '', showUpgrade: true, onlyNoted: false, showEn: false, editMode: false };
+
+const LS_KEY = 'wisp_note_overrides_v1';
+function loadOverrides() {
+  try { return JSON.parse(localStorage.getItem(LS_KEY) || '{}'); } catch (e) { return {}; }
+}
+function saveOverrides() {
+  try { localStorage.setItem(LS_KEY, JSON.stringify(overrides)); } catch (e) { /* storage unavailable, ignore */ }
+}
+let overrides = loadOverrides();
+
+function effectiveNotes(w) {
+  return overrides[w.name_en] !== undefined ? overrides[w.name_en] : w.notes;
+}
+function hasNote(w) {
+  const n = effectiveNotes(w);
+  return !!(n && n.length);
+}
+function escapeHtml(s) {
+  return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+function escapeAttr(s) {
+  return escapeHtml(s).replace(/"/g, '&quot;');
+}
 
 function setupChipGroup(selector, key, attr) {
   document.querySelectorAll(selector).forEach(btn => {
@@ -290,8 +358,53 @@ document.getElementById('showUpgrade').addEventListener('change', e => { state.s
 document.getElementById('onlyNoted').addEventListener('change', e => { state.onlyNoted = e.target.checked; render(); });
 document.getElementById('showEn').addEventListener('change', e => { state.showEn = e.target.checked; render(); });
 
+const editModeBtn = document.getElementById('editModeBtn');
+const editTools = document.getElementById('editTools');
+editModeBtn.addEventListener('click', () => {
+  state.editMode = !state.editMode;
+  editModeBtn.classList.toggle('active', state.editMode);
+  editTools.style.display = state.editMode ? 'flex' : 'none';
+  render();
+});
+document.getElementById('downloadOverrides').addEventListener('click', () => {
+  const blob = new Blob([JSON.stringify(overrides, null, 2)], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'note_overrides.json';
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  URL.revokeObjectURL(url);
+});
+document.getElementById('clearOverrides').addEventListener('click', () => {
+  if (!confirm('確定要清除這個瀏覽器裡儲存的所有本機修改嗎？此動作無法復原（建議先按左邊「下載」備份）。')) return;
+  overrides = {};
+  saveOverrides();
+  render();
+});
+
+const gridEl = document.getElementById('grid');
+gridEl.addEventListener('input', e => {
+  if (!e.target.classList.contains('note-editor')) return;
+  const name = e.target.dataset.name;
+  const lines = e.target.value.split('\n').map(s => s.trim()).filter(Boolean);
+  overrides[name] = lines;
+  saveOverrides();
+});
+gridEl.addEventListener('focusout', e => {
+  if (!e.target.classList.contains('note-editor')) return;
+  render();
+});
+gridEl.addEventListener('click', e => {
+  if (!e.target.classList.contains('reset-note')) return;
+  delete overrides[e.target.dataset.name];
+  saveOverrides();
+  render();
+});
+
 function matches(w) {
-  if (state.onlyNoted && !w.has_personal_note) return false;
+  if (state.onlyNoted && !hasNote(w)) return false;
   if (state.rarity !== '全部' && w.rarity !== state.rarity) return false;
   if (state.category !== '全部' && w.category !== state.category) return false;
   if (state.round !== '全部') {
@@ -300,7 +413,7 @@ function matches(w) {
   }
   if (state.search) {
     const q = state.search.toLowerCase();
-    const hay = (w.name + ' ' + w.name_en + ' ' + w.effects.join(' ') + ' ' + w.notes.join(' ')).toLowerCase();
+    const hay = (w.name + ' ' + w.name_en + ' ' + w.effects.join(' ') + ' ' + effectiveNotes(w).join(' ')).toLowerCase();
     if (!hay.includes(q)) return false;
   }
   return true;
@@ -320,6 +433,26 @@ function card(w) {
       ${w.effect_en_blossom ? `<div>Blossom upgrade: ${w.effect_en_blossom}</div>` : ''}
       ${w.conditions_en ? `<div>Only appears if: ${w.conditions_en}</div>` : ''}
     </div>` : '';
+
+  const isOverridden = overrides[w.name_en] !== undefined;
+  const notes = effectiveNotes(w);
+  let notesBlock;
+  if (state.editMode) {
+    notesBlock = `<div class="notes-edit">
+      <textarea class="note-editor" data-name="${escapeAttr(w.name_en)}" rows="3" placeholder="每行一則備註，例如：【備註】必拿。">${escapeHtml(notes.join('\n'))}</textarea>
+      ${isOverridden ? `<button class="mini-btn reset-note" data-name="${escapeAttr(w.name_en)}">還原成原始筆記</button>` : ''}
+    </div>`;
+  } else if (notes.length) {
+    notesBlock = `<div class="notes">
+      ${isOverridden ? '<span class="local-flag">本機修改</span><br>' : ''}
+      ${notes.map(n => `<div>${n}</div>`).join('')}
+    </div>`;
+  } else if (w.official_zh_source) {
+    notesBlock = `<div class="notes"><div style="color:var(--text-faint); font-style:italic;">（尚無個人筆記）</div></div>`;
+  } else {
+    notesBlock = '';
+  }
+
   return `<div class="card">
     <div class="card-head">
       <div class="card-name-row">
@@ -338,8 +471,7 @@ function card(w) {
       ${!w.official_zh_source ? '<span class="badge fresh">新內容／機翻</span>' : ''}
     </div>
     <ul class="effects">${effects.map((e,i) => `<li class="${effectClass(e,i)}">${e}</li>`).join('')}</ul>
-    ${w.notes.length ? `<div class="notes">${w.notes.map(n => `<div>${n}</div>`).join('')}</div>` : ''}
-    ${(!w.has_personal_note && w.official_zh_source) ? `<div class="notes"><div style="color:var(--text-faint); font-style:italic;">（尚無個人筆記）</div></div>` : ''}
+    ${notesBlock}
     ${enBlock}
   </div>`;
 }
