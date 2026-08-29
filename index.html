@@ -386,10 +386,22 @@ if (FS_SUPPORTED) {
     saveStatus.textContent = '儲存中…';
     try {
       const handle = await ensureFileHandle();
+      // Merge with whatever is already on disk first -- other machines/sessions may have
+      // saved keys this browser's localStorage never had, and a blind overwrite would drop them.
+      let diskData = {};
+      try {
+        const file = await handle.getFile();
+        const text = await file.text();
+        if (text.trim()) diskData = JSON.parse(text);
+      } catch (e) { /* file empty/unreadable/new -- start from {} */ }
+      const merged = Object.assign({}, diskData, overrides);
       const writable = await handle.createWritable();
-      await writable.write(JSON.stringify(overrides, null, 2));
+      await writable.write(JSON.stringify(merged, null, 2));
       await writable.close();
+      overrides = merged;
+      saveOverrides();
       saveStatus.textContent = `已存檔（${new Date().toLocaleTimeString('zh-TW')}），可以叫 Claude update 了。`;
+      render();
     } catch (e) {
       if (e.name === 'AbortError') {
         saveStatus.textContent = '已取消。';
