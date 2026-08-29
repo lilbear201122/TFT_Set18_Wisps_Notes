@@ -5,8 +5,8 @@
 ```
 python scripts/1_extract_docx.py    # 讀 data/*.docx（使用者手寫筆記）-> data/wisps_from_docx.json, data/round_price.json
 python scripts/2_match_en_zh.py     # 拿 data/metatft_scrape_raw.json 跟上一步結果做模糊比對 -> data/match_result.json
-python scripts/3_merge_final.py     # 套用 2 的結果 + 手動校正表 -> data/wisps_final.json（最終資料源）
-python scripts/4_build_site.py      # 讀 wisps_final.json + round_price.json -> ../index.html, data/wisps_data.js
+python scripts/3_merge_final.py     # 套用 2 的結果 + 手動校正表 + data/note_overrides.json -> data/wisps_final.json（最終資料源）
+python scripts/4_build_site.py      # 讀 wisps_final.json -> ../index.html, data/wisps_data.js
 ```
 
 `data/wisps_final.json` 是唯一真正被網站使用的資料檔；其餘都是產生它的中間產物。
