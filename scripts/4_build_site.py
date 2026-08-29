@@ -169,7 +169,9 @@ h1 {{ font-size: 22px; margin: 0 0 6px; }}
 
 #editModeBtn.active {{ background: var(--accent); border-color: var(--accent); color: #0f1115; font-weight: 700; }}
 #editTools {{ display: none; gap: 8px; align-items: center; flex-wrap: wrap; }}
-#editTools .hint {{ color: var(--text-faint); font-size: 12px; }}
+#editTools .hint {{ color: var(--text-faint); font-size: 12px; width: 100%; }}
+.chip:disabled {{ opacity: 0.4; cursor: not-allowed; }}
+.chip:disabled:hover {{ border-color: var(--border); color: var(--text-dim); }}
 
 .notes-edit {{ border-top: 1px dashed var(--border); padding-top: 8px; margin-top: 8px; }}
 .note-editor {{
@@ -244,9 +246,10 @@ h1 {{ font-size: 22px; margin: 0 0 6px; }}
       <label class="toggle"><input type="checkbox" id="showEn"> 顯示 MetaTFT 英文原文</label>
       <button id="editModeBtn" class="chip">✏️ 編輯模式</button>
       <div id="editTools">
-        <span class="hint">修改先存在這個瀏覽器裡，記得定期下載備份：</span>
-        <button id="downloadOverrides" class="chip">下載 note_overrides.json</button>
+        <button id="saveToFile" class="chip">💾 存檔到 data/note_overrides.json</button>
+        <button id="downloadOverrides" class="chip">下載備份</button>
         <button id="clearOverrides" class="chip">清除全部本機修改</button>
+        <span class="hint" id="saveStatus">第一次存檔請選到專案的 data/note_overrides.json（若還沒建立，選到 data 資料夾、檔名打 note_overrides.json 存新檔即可）</span>
       </div>
     </div>
   </div>
@@ -340,6 +343,84 @@ document.getElementById('downloadOverrides').addEventListener('click', () => {{
   a.remove();
   URL.revokeObjectURL(url);
 }});
+
+// --- Save straight to data/note_overrides.json on disk via the File System Access API
+// (Chrome/Edge only). First click asks you to pick the file once; the handle is then
+// kept in IndexedDB so later clicks just write, no repeated picker.
+const saveStatus = document.getElementById('saveStatus');
+const saveBtn = document.getElementById('saveToFile');
+const FS_SUPPORTED = 'showSaveFilePicker' in window;
+if (!FS_SUPPORTED) {{
+  saveBtn.disabled = true;
+  saveBtn.title = '這個瀏覽器不支援直接存檔，請用「下載備份」';
+  saveStatus.textContent = '這個瀏覽器不支援直接存檔（File System Access API），請改用「下載備份」再手動覆蓋 data/note_overrides.json。';
+}}
+
+function idbOpen() {{
+  return new Promise((resolve, reject) => {{
+    const req = indexedDB.open('wisp_notes_fs', 1);
+    req.onupgradeneeded = () => req.result.createObjectStore('handles');
+    req.onsuccess = () => resolve(req.result);
+    req.onerror = () => reject(req.error);
+  }});
+}}
+async function idbGetHandle() {{
+  const db = await idbOpen();
+  return new Promise((resolve, reject) => {{
+    const tx = db.transaction('handles', 'readonly');
+    const r = tx.objectStore('handles').get('note_overrides_handle');
+    r.onsuccess = () => resolve(r.result || null);
+    r.onerror = () => reject(r.error);
+  }});
+}}
+async function idbSetHandle(handle) {{
+  const db = await idbOpen();
+  return new Promise((resolve, reject) => {{
+    const tx = db.transaction('handles', 'readwrite');
+    tx.objectStore('handles').put(handle, 'note_overrides_handle');
+    tx.oncomplete = () => resolve();
+    tx.onerror = () => reject(tx.error);
+  }});
+}}
+
+let fileHandle = null;
+async function ensureFileHandle() {{
+  if (fileHandle && await fileHandle.requestPermission({{ mode: 'readwrite' }}) === 'granted') {{
+    return fileHandle;
+  }}
+  try {{
+    const saved = await idbGetHandle();
+    if (saved && await saved.requestPermission({{ mode: 'readwrite' }}) === 'granted') {{
+      fileHandle = saved;
+      return fileHandle;
+    }}
+  }} catch (e) {{ /* no saved handle yet, fall through */ }}
+  fileHandle = await window.showSaveFilePicker({{
+    suggestedName: 'note_overrides.json',
+    types: [{{ description: 'JSON', accept: {{ 'application/json': ['.json'] }} }}],
+  }});
+  await idbSetHandle(fileHandle);
+  return fileHandle;
+}}
+
+if (FS_SUPPORTED) {{
+  saveBtn.addEventListener('click', async () => {{
+    saveStatus.textContent = '儲存中…';
+    try {{
+      const handle = await ensureFileHandle();
+      const writable = await handle.createWritable();
+      await writable.write(JSON.stringify(overrides, null, 2));
+      await writable.close();
+      saveStatus.textContent = `已存檔（${{new Date().toLocaleTimeString('zh-TW')}}），可以叫 Claude update 了。`;
+    }} catch (e) {{
+      if (e.name === 'AbortError') {{
+        saveStatus.textContent = '已取消。';
+        return;
+      }}
+      saveStatus.textContent = '存檔失敗：' + e.message + '（改用「下載備份」）';
+    }}
+  }});
+}}
 document.getElementById('clearOverrides').addEventListener('click', () => {{
   if (!confirm('確定要清除這個瀏覽器裡儲存的所有本機修改嗎？此動作無法復原（建議先按左邊「下載」備份）。')) return;
   overrides = {{}};

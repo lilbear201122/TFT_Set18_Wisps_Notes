@@ -18,17 +18,23 @@ cd TFT_Set18_神火筆記
 
 ## 編輯備註
 
-點右上角「✏️ 編輯模式」，每張卡片的備註會變成可編輯的文字框，修改會**即時存在目前這個瀏覽器
-的 localStorage**（換瀏覽器、換電腦、清瀏覽器資料都不會帶過去）。要讓修改變成永久、大家都看
-得到的版本：
+點右上角「✏️ 編輯模式」，每張卡片的備註會變成可編輯的文字框，邊打邊自動存在這個瀏覽器的
+localStorage（暫存，換瀏覽器、清瀏覽器資料會不見）。
 
-1. 編輯完之後點「下載 note_overrides.json」，瀏覽器會存一份 JSON 檔。
-2. 把下載下來的檔案內容併入 [data/note_overrides.json](data/note_overrides.json)（同一個
-   `name_en` 的 key 會覆蓋掉舊的），或是直接把整份內容貼給 Claude 幫你處理。
-3. 跑 `python scripts/3_merge_final.py && python scripts/4_build_site.py` 重新產生
-   `index.html`，`git commit` + `git push` 分享給大家。
+要把修改寫回專案本身：按「💾 存檔到 data/note_overrides.json」。
 
-「清除全部本機修改」會清掉這個瀏覽器裡還沒下載備份的修改，記得先下載再清。
+- **第一次按**：瀏覽器會跳出存檔視窗，導覽到專案的 `data` 資料夾，選到現有的
+  `note_overrides.json` 直接覆蓋（沒有的話就在 `data` 資料夾內把檔名打成
+  `note_overrides.json` 存新檔）。選過一次之後，瀏覽器會記住這個檔案位置。
+- **之後再按**：不會再跳視窗，直接寫入同一個檔案。
+- 這個功能只有 Chrome / Edge 這類 Chromium 瀏覽器支援（File System Access API），
+  Firefox/Safari 不支援的話，改用旁邊的「下載備份」，把下載的檔案手動蓋掉
+  `data/note_overrides.json`。
+
+存檔之後，`data/note_overrides.json` 這個檔案本身就改好了 —— 跟 Claude 說一聲「update」，
+它就會重新跑資料管線、`commit`、`push`，大家 `git pull` 就看得到最新備註。
+
+「清除全部本機修改」會清掉這個瀏覽器裡還沒存檔/下載的修改，記得先存檔再清。
 
 ## 資料夾結構
 
