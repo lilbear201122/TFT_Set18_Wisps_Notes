@@ -216,6 +216,15 @@ h1 { font-size: 22px; margin: 0 0 6px; }
       <button class="chip" data-round="402-407">4-2 to 4-7</button>
       <button class="chip" data-round="501-507">5-1 to 5-7</button>
       <button class="chip" data-round="601-1001">6-1 to 10-1</button>
+    </div>
+    <div class="row">
+      <span class="row-label">費用</span>
+      <button class="chip active" data-cost="全部">全部</button>
+      <button class="chip" data-cost="0-0">免費</button>
+      <button class="chip" data-cost="1-2">1~2</button>
+      <button class="chip" data-cost="3-4">3~4</button>
+      <button class="chip" data-cost="5-6">5~6</button>
+      <button class="chip" data-cost="7-9999">7+</button>
       <input id="search" type="text" placeholder="搜尋名稱／效果／備註…">
     </div>
     <div class="row">
@@ -258,7 +267,14 @@ function overlaps(ranges, lo, hi) {
   return ranges.some(([a, b]) => a !== null && b !== null && a <= hi && b >= lo);
 }
 
-const state = { rarity: '全部', category: '全部', round: '全部', search: '', showUpgrade: true, onlyNoted: false, showEn: false, editMode: false };
+const state = { rarity: '全部', category: '全部', round: '全部', cost: '全部', search: '', showUpgrade: true, onlyNoted: false, showEn: false, editMode: false };
+
+function baseCost(costStr) {
+  if (costStr === '—' || costStr === '') return 0;
+  const first = costStr.split(/[／/]/)[0];
+  const n = parseInt(first, 10);
+  return Number.isNaN(n) ? 0 : n;
+}
 
 const LS_KEY = 'wisp_note_overrides_v1';
 function loadOverrides() {
@@ -296,6 +312,7 @@ function setupChipGroup(selector, key, attr) {
 setupChipGroup('.chip[data-rar]', 'rarity', 'rar');
 setupChipGroup('.chip[data-cat]', 'category', 'cat');
 setupChipGroup('.chip[data-round]', 'round', 'round');
+setupChipGroup('.chip[data-cost]', 'cost', 'cost');
 
 document.getElementById('search').addEventListener('input', e => { state.search = e.target.value.trim(); render(); });
 document.getElementById('showUpgrade').addEventListener('change', e => { state.showUpgrade = e.target.checked; render(); });
@@ -444,6 +461,11 @@ function matches(w) {
   if (state.round !== '全部') {
     const [lo, hi] = state.round.split('-').map(Number);
     if (!overlaps(parseRanges(w.round_range), lo, hi)) return false;
+  }
+  if (state.cost !== '全部') {
+    const [lo, hi] = state.cost.split('-').map(Number);
+    const c = baseCost(w.cost);
+    if (c < lo || c > hi) return false;
   }
   if (state.search) {
     const q = state.search.toLowerCase();
