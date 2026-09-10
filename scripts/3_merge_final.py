@@ -83,13 +83,13 @@ else:
 # --- hand-translated entries for wisps with no counterpart in the old dataset ---
 FRESH_ZH = {
     'Potted Lifebloom': {
-        'name': '盆栽生命花',
+        'name': '生命花盆栽',  # official zh-TW name confirmed via patch 18.2 notes
         'base': '獲得1個暫時的生命綻花。',
         'blossom': '',
         'conditions': '古木羈絆啟動',
     },
     'Potted Stonebark': {
-        'name': '盆栽石紋樹',
+        'name': '石皮樹盆栽',  # official zh-TW name confirmed via patch 18.2 notes
         'base': '獲得1個暫時的石紋樹。',
         'blossom': '',
         'conditions': '古木羈絆啟動',
