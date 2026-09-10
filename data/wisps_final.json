@@ -225,30 +225,6 @@
   "conditions_en": "Have Solar active"
  },
  {
-  "name": "老鼠之地",
-  "name_en": "Field of Mice",
-  "category": "英雄",
-  "category_en": "Champion",
-  "rarity": "黃金",
-  "cost": "8",
-  "round_range": "3-1 ~ 4-1",
-  "round_range_en": "3-1 to 4-1",
-  "effects": [
-   "上回合每部署1個不同的1費單位，便獲得1件小小英雄複製裝置。",
-   "升級：上回合每部署1個不同的1費英雄，便獲得1件小小複製裝置和1金錢。"
-  ],
-  "notes": [
-   "【刷新條件】上場戰鬥上陣 5 名不同 1 費英雄（感覺不是這樣）",
-   "【備註】賭一費再拿；或能直接三星一個有裝的一費卡再拿。例：三神三星雷克薩、小藍、小紅。"
-  ],
-  "has_personal_note": true,
-  "official_zh_source": true,
-  "icon": "t_shopcardsicon18_champion_tier2.png",
-  "effect_en_base": "Gain a Tiny Champion Duplicator for each unique one-cost fielded last round.",
-  "effect_en_blossom": "Gain a Tiny Duplicator and a gold for each unique 1-cost champion you fielded last round.",
-  "conditions_en": "Have fielded 5 1-cost champions last combat"
- },
- {
   "name": "森林嚮導",
   "name_en": "Forest Guide",
   "category": "英雄",
@@ -296,12 +272,12 @@
   "category": "英雄",
   "category_en": "Champion",
   "rarity": "稜彩",
-  "cost": "7",
+  "cost": "6",
   "round_range": "3-5 ~ 4-1",
   "round_range_en": "3-5 to 4-1",
   "effects": [
    "隨機獲得1名隨機5費英雄。",
-   "升級（6）：獲得1名隨機5費英雄。"
+   "升級（5）：獲得1名隨機5費英雄。"
   ],
   "notes": [
    "【備註】建議拿；2 元買隨機五費這版本值得。"
@@ -530,8 +506,8 @@
   "round_range": "3-1 ~ 4-7",
   "round_range_en": "3-1 to 4-7",
   "effects": [
-   "一名英雄獲得一件暫時的推薦道具。",
-   "升級：一名英雄獲得一件暫時的推薦道具並增加250生命。"
+   "戰鬥開始時，一名英雄獲得一件暫時的推薦道具。",
+   "升級：戰鬥開始時，一名英雄獲得一件暫時的推薦道具並增加250生命。"
   ],
   "notes": [
    "【備註】一塊戰力，三階段不忙的時候可上下怪控裝備。四階段版面沒轉完不考慮。",
@@ -693,7 +669,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "白銀",
-  "cost": "2",
+  "cost": "1",
   "round_range": "3-5 ~ 4-7",
   "round_range_en": "3-5 to 4-7",
   "effects": [
@@ -716,7 +692,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "白銀",
-  "cost": "2",
+  "cost": "1",
   "round_range": "4-2 ~ 5-7",
   "round_range_en": "4-2 to 5-7",
   "effects": [
@@ -763,7 +739,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "白銀",
-  "cost": "2",
+  "cost": "1",
   "round_range": "4-2 ~ 4-7；6-1 ~ 10-1",
   "round_range_en": "4-2 to 4-7, 6-1 to 10-1",
   "effects": [
@@ -1018,7 +994,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "黃金",
-  "cost": "2",
+  "cost": "1",
   "round_range": "3-5 ~ 5-7",
   "round_range_en": "3-5 to 5-7",
   "effects": [
@@ -1198,12 +1174,12 @@
   "conditions_en": ""
  },
  {
-  "name": "盆栽生命花",
+  "name": "生命花盆栽",
   "name_en": "Potted Lifebloom",
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "黃金",
-  "cost": "2",
+  "cost": "1／0",
   "round_range": "3-1 ~ 4-7",
   "round_range_en": "3-1 to 4-7",
   "effects": [
@@ -1221,12 +1197,12 @@
   "conditions_en": "Have Elderwood active"
  },
  {
-  "name": "盆栽石紋樹",
+  "name": "石皮樹盆栽",
   "name_en": "Potted Stonebark",
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "黃金",
-  "cost": "2",
+  "cost": "1／0",
   "round_range": "3-1 ~ 4-7",
   "round_range_en": "3-1 to 4-7",
   "effects": [
@@ -1341,7 +1317,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "黃金",
-  "cost": "3",
+  "cost": "2",
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
@@ -1363,7 +1339,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "黃金",
-  "cost": "3",
+  "cost": "2",
   "round_range": "4-2 ~ 10-1",
   "round_range_en": "4-2 to 10-1",
   "effects": [
@@ -1386,7 +1362,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "黃金",
-  "cost": "3",
+  "cost": "2",
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
@@ -1409,7 +1385,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "黃金",
-  "cost": "3",
+  "cost": "2",
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
@@ -1525,7 +1501,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "黃金",
-  "cost": "3",
+  "cost": "2",
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
@@ -1592,7 +1568,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "黃金",
-  "cost": "3",
+  "cost": "2",
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
@@ -1613,7 +1589,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "黃金",
-  "cost": "3",
+  "cost": "2",
   "round_range": "3-5 ~ 10-1",
   "round_range_en": "3-5 to 10-1",
   "effects": [
@@ -1638,7 +1614,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "黃金",
-  "cost": "3",
+  "cost": "2",
   "round_range": "4-2 ~ 10-1",
   "round_range_en": "4-2 to 10-1",
   "effects": [
@@ -1731,7 +1707,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "黃金",
-  "cost": "3",
+  "cost": "2",
   "round_range": "4-2 ~ 5-7",
   "round_range_en": "4-2 to 5-7",
   "effects": [
@@ -1754,7 +1730,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "黃金",
-  "cost": "4",
+  "cost": "1",
   "round_range": "4-2 ~ 10-1",
   "round_range_en": "4-2 to 10-1",
   "effects": [
@@ -1775,7 +1751,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "黃金",
-  "cost": "4",
+  "cost": "3",
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
@@ -1797,7 +1773,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "黃金",
-  "cost": "4",
+  "cost": "3",
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
@@ -1841,7 +1817,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "稜彩",
-  "cost": "5",
+  "cost": "2",
   "round_range": "6-1 ~ 10-1",
   "round_range_en": "6-1 to 10-1",
   "effects": [
@@ -1863,7 +1839,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "稜彩",
-  "cost": "6",
+  "cost": "4",
   "round_range": "4-2 ~ 5-7",
   "round_range_en": "4-2 to 5-7",
   "effects": [
@@ -1910,7 +1886,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "稜彩",
-  "cost": "2",
+  "cost": "1",
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
@@ -1931,7 +1907,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "稜彩",
-  "cost": "3",
+  "cost": "2",
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
@@ -1972,7 +1948,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "稜彩",
-  "cost": "4",
+  "cost": "2",
   "round_range": "6-1 ~ 10-1",
   "round_range_en": "6-1 to 10-1",
   "effects": [
@@ -1995,7 +1971,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "稜彩",
-  "cost": "4",
+  "cost": "3",
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
@@ -2017,7 +1993,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "稜彩",
-  "cost": "5",
+  "cost": "3",
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
@@ -2061,11 +2037,11 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "稜彩",
-  "cost": "5",
+  "cost": "3",
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
-   "你的英雄死亡時會爆炸，造成相當於15%最大生命的魔法傷害。",
+   "你的英雄死亡時會爆炸，造成相當於12%最大生命的魔法傷害。",
    "升級：你的英雄死亡時會爆炸，造成相當於22%最大生命的魔法傷害。",
    "稜彩（0）：你的英雄死亡時會爆炸，造成相當於100%最大生命的魔法傷害。"
   ],
@@ -2083,7 +2059,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "稜彩",
-  "cost": "5",
+  "cost": "3",
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
@@ -2128,7 +2104,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "稜彩",
-  "cost": "5",
+  "cost": "3",
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
@@ -2150,7 +2126,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "稜彩",
-  "cost": "5",
+  "cost": "3",
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
@@ -2171,7 +2147,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "稜彩",
-  "cost": "5",
+  "cost": "3",
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
@@ -2216,7 +2192,7 @@
   "category": "戰鬥",
   "category_en": "Combat",
   "rarity": "稜彩",
-  "cost": "6",
+  "cost": "4",
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
@@ -2492,7 +2468,7 @@
   "category": "金幣／經驗",
   "category_en": "GoldXP",
   "rarity": "黃金",
-  "cost": "4",
+  "cost": "2",
   "round_range": "3-5 ~ 4-7",
   "round_range_en": "3-5 to 4-7",
   "effects": [
@@ -3116,7 +3092,7 @@
   "category": "雜項",
   "category_en": "Misc",
   "rarity": "黃金",
-  "cost": "3",
+  "cost": "2",
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
@@ -3495,12 +3471,12 @@
   "category": "風險",
   "category_en": "Risky",
   "rarity": "黃金",
-  "cost": "3",
+  "cost": "2",
   "round_range": "3-5 ~ 4-7",
   "round_range_en": "3-5 to 4-7",
   "effects": [
-   "每5秒，你的英雄有15%機率掉落1金錢。",
-   "升級：每4秒，你的英雄有15%機率掉落1金錢。"
+   "每5秒，你的英雄有20%機率掉落1金錢。",
+   "升級：每4秒，你的英雄有20%機率掉落1金錢。"
   ],
   "notes": [
    "【備註】能打超過 18 秒再拿，有大坦、質量夠也會增加期望值，劣勢很容易虧。"
@@ -3542,7 +3518,7 @@
   "category": "風險",
   "category_en": "Risky",
   "rarity": "黃金",
-  "cost": "4",
+  "cost": "3",
   "round_range": "3-5 ~ 4-7",
   "round_range_en": "3-5 to 4-7",
   "effects": [
@@ -3565,7 +3541,7 @@
   "category": "風險",
   "category_en": "Risky",
   "rarity": "黃金",
-  "cost": "5",
+  "cost": "4",
   "round_range": "3-1 ~ 4-1",
   "round_range_en": "3-1 to 4-1",
   "effects": [
@@ -3613,7 +3589,7 @@
   "category": "商店",
   "category_en": "Shop",
   "rarity": "白銀",
-  "cost": "4",
+  "cost": "3",
   "round_range": "5-1 ~ 5-7",
   "round_range_en": "5-1 to 5-7",
   "effects": [
@@ -3726,7 +3702,7 @@
   "category": "商店",
   "category_en": "Shop",
   "rarity": "白銀",
-  "cost": "2",
+  "cost": "1",
   "round_range": "3-5 ~ 5-7",
   "round_range_en": "3-5 to 5-7",
   "effects": [
@@ -3773,7 +3749,7 @@
   "category": "商店",
   "category_en": "Shop",
   "rarity": "白銀",
-  "cost": "3",
+  "cost": "1／0",
   "round_range": "3-5 ~ 4-7",
   "round_range_en": "3-5 to 4-7",
   "effects": [
@@ -3817,7 +3793,7 @@
   "category": "商店",
   "category_en": "Shop",
   "rarity": "黃金",
-  "cost": "6",
+  "cost": "4／3",
   "round_range": "3-5 ~ 4-7",
   "round_range_en": "3-5 to 4-7",
   "effects": [
@@ -3908,7 +3884,7 @@
   "category": "商店",
   "category_en": "Shop",
   "rarity": "黃金",
-  "cost": "4",
+  "cost": "3",
   "round_range": "3-1 ~ 4-1",
   "round_range_en": "3-1 to 4-1",
   "effects": [
@@ -3954,7 +3930,7 @@
   "category": "商店",
   "category_en": "Shop",
   "rarity": "稜彩",
-  "cost": "10",
+  "cost": "8",
   "round_range": "6-1 ~ 10-1",
   "round_range_en": "6-1 to 10-1",
   "effects": [
@@ -3975,7 +3951,7 @@
   "category": "商店",
   "category_en": "Shop",
   "rarity": "稜彩",
-  "cost": "6",
+  "cost": "3／2",
   "round_range": "3-1 ~ 4-1",
   "round_range_en": "3-1 to 4-1",
   "effects": [
@@ -3997,7 +3973,7 @@
   "category": "商店",
   "category_en": "Shop",
   "rarity": "稜彩",
-  "cost": "3",
+  "cost": "2／1",
   "round_range": "2-1 ~ 3-4",
   "round_range_en": "2-1 to 3-4",
   "effects": [
