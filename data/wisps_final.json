@@ -32,7 +32,7 @@
   "round_range_en": "2-1 to 2-7",
   "effects": [
    "獲得一個雷葛爾或卡力斯。他們獲得3參與擊殺。",
-   "升級：獲得1個雷葛爾或卡力斯。他們獲得7次參與擊殺。"
+   "升級：獲得1個雷葛爾或卡力斯。他們獲得5次參與擊殺。"
   ],
   "notes": [
    "【備註】必拿。"
@@ -41,7 +41,7 @@
   "official_zh_source": true,
   "icon": "t_shopcardsicon18_champion_tier1.png",
   "effect_en_base": "Gain a Rengar or a Kha'Zix. They gain 3 takedowns.",
-  "effect_en_blossom": "Gain a Rengar or a Kha'Zix. They gain 7 takedowns.",
+  "effect_en_blossom": "Gain a Rengar or a Kha'Zix. They gain 5 takedowns.",
   "conditions_en": ""
  },
  {
@@ -139,7 +139,7 @@
   "category": "英雄",
   "category_en": "Champion",
   "rarity": "黃金",
-  "cost": "9",
+  "cost": "10",
   "round_range": "3-1 ~ 4-1",
   "round_range_en": "3-1 to 4-1",
   "effects": [
@@ -531,7 +531,7 @@
   "round_range_en": "3-1 to 4-1",
   "effects": [
    "我方生命值最高的單位變大，增加350生命。",
-   "升級：生命最高的我方單位變大，增加600生命。",
+   "升級：生命最高的我方單位變大，增加500生命。",
    "稜彩（0）：我方10個生命最高的單位變大，增加2500生命。"
   ],
   "notes": [
@@ -541,7 +541,7 @@
   "official_zh_source": true,
   "icon": "t_shopcardsicon18_combat_tier1.png",
   "effect_en_base": "Your highest Health unit grows, gaining 350 Health.",
-  "effect_en_blossom": "Your highest Health unit grows, gaining 600 Health.",
+  "effect_en_blossom": "Your highest Health unit grows, gaining 500 Health.",
   "conditions_en": ""
  },
  {
@@ -1046,7 +1046,7 @@
   "round_range_en": "3-1 to 4-7",
   "effects": [
    "在戰鬥中，我方星等最低的1或2費英雄升星。",
-   "升級：在戰鬥中，我方星等最低的2名1或2費英雄升星。"
+   "升級（3）：在戰鬥中，我方星等最低的2名1或2費英雄升星。"
   ],
   "notes": [
    "【刷新條件】擁有 2 星的 1／2 費英雄",
@@ -1389,8 +1389,8 @@
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
-   "我方法師最大魔力降低0.82。",
-   "升級：我方法師最大魔力降低0.75。"
+   "我方法師最大魔力降低15%。",
+   "升級：我方法師最大魔力降低20%。"
   ],
   "notes": [
    "【刷新條件】棋盤至少 2 名施法者；有已裝備的施法者"
@@ -1398,8 +1398,8 @@
   "has_personal_note": false,
   "official_zh_source": true,
   "icon": "t_shopcardsicon18_combat_tier2.png",
-  "effect_en_base": "Your Casters have 18% reduced Max Mana.",
-  "effect_en_blossom": "Your Casters have 25% reduced Max Mana.",
+  "effect_en_base": "Your Casters have 15% reduced Max Mana.",
+  "effect_en_blossom": "Your Casters have 20% reduced Max Mana.",
   "conditions_en": "Have at least 2 casters on the board, Have an itemised caster"
  },
  {
@@ -1459,7 +1459,7 @@
   "round_range_en": "4-2 to 5-7",
   "effects": [
    "每擁有10金錢，便獲得3%傷害增幅。",
-   "升級：你每擁有10金錢，便獲得4.5%傷害增幅。"
+   "升級：你每擁有10金錢，便獲得4%傷害增幅。"
   ],
   "notes": [
    "【刷新條件】至少持有 30 金幣",
@@ -1469,7 +1469,7 @@
   "official_zh_source": true,
   "icon": "t_shopcardsicon18_combat_tier2.png",
   "effect_en_base": "Gain 3% Damage Amp for every 10 gold you have.",
-  "effect_en_blossom": "Gain 4.5% Damage Amp for every 10 gold you have.",
+  "effect_en_blossom": "Gain 4% Damage Amp for every 10 gold you have.",
   "conditions_en": "Have at least 30 gold"
  },
  {
@@ -1594,7 +1594,7 @@
   "round_range_en": "3-5 to 10-1",
   "effects": [
    "獨自一排的英雄增加15%生命和15%傷害增幅。",
-   "升級：獨自一排的英雄增加22%生命和22%傷害增幅。",
+   "升級：獨自一排的英雄增加20%生命和20%傷害增幅。",
    "稜彩（0）：獨自一排的英雄增加100%生命和150%傷害增幅。"
   ],
   "notes": [
@@ -1605,7 +1605,7 @@
   "official_zh_source": true,
   "icon": "t_shopcardsicon18_combat_tier2.png",
   "effect_en_base": "Champions alone in their row gain 15% Health and 15% Damage Amp.",
-  "effect_en_blossom": "Champions alone in their row gain 22% Health and 22% Damage Amp.",
+  "effect_en_blossom": "Champions alone in their row gain 20% Health and 20% Damage Amp.",
   "conditions_en": "Have Elderwood inactive, Have Lunar inactive, Have Greenfather inactive"
  },
  {
@@ -1998,7 +1998,7 @@
   "round_range_en": "5-1 to 10-1",
   "effects": [
    "火焰蔓延整個盤面，對敵軍造成真實傷害。",
-   "升級：火焰蔓延整個盤面，對敵軍造成更多真實傷害。",
+   "升級：火焰蔓延整個盤面，對敵軍造成更多真實傷害（1.25%最大生命）。",
    "稜彩（0）：戰場上燃起一場熊熊烈火！"
   ],
   "notes": [],
@@ -2041,8 +2041,8 @@
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
-   "你的英雄死亡時會爆炸，造成相當於12%最大生命的魔法傷害。",
-   "升級：你的英雄死亡時會爆炸，造成相當於22%最大生命的魔法傷害。",
+   "你的英雄死亡時會爆炸，造成相當於15%最大生命的魔法傷害。",
+   "升級：你的英雄死亡時會爆炸，造成相當於18%最大生命的魔法傷害。",
    "稜彩（0）：你的英雄死亡時會爆炸，造成相當於100%最大生命的魔法傷害。"
   ],
   "notes": [],
@@ -2085,7 +2085,8 @@
   "round_range": "4-2 ~ 5-7",
   "round_range_en": "4-2 to 5-7",
   "effects": [
-   "我方最強大的3名英雄獲得英雄之力，但其他友軍會被犧牲。"
+   "我方最強大的3名英雄獲得英雄之力，但其他友軍會被犧牲。",
+   "升級：英雄之力提供35%物攻／魔攻與35物防／魔防。"
   ],
   "notes": [
    "【刷新條件】有英雄穿著裝備；滿裝單位少於 4",
@@ -2359,7 +2360,7 @@
   "round_range_en": "3-1 to 4-7",
   "effects": [
    "你每擊殺1名英雄，獲得1金錢。",
-   "升級（1）：你每擊殺1名英雄，獲得1金錢。獲得1金錢。"
+   "升級（2）：你每擊殺1名英雄，獲得1金錢。獲得1金錢。"
   ],
   "notes": [
    "【備註】有換怪質量（能換兩隻）→ 必拿。"
@@ -2544,7 +2545,7 @@
   "round_range_en": "3-1 to 4-7",
   "effects": [
    "打開道具商店。價格範圍為0至15金錢。",
-   "升級：打開道具商店。價格範圍為0至15金錢。獲得2金錢。"
+   "升級：打開道具商店。價格範圍為0至15金錢。獲得1金錢。"
   ],
   "notes": [
    "【刷新條件】金幣足夠（購買條件）",
@@ -2554,7 +2555,7 @@
   "official_zh_source": true,
   "icon": "t_shopcardsicon18_item_tier2.png",
   "effect_en_base": "Open an item store. Items cost 0 to 15 gold.",
-  "effect_en_blossom": "Open an item store. Items cost 0 to 15 gold. Gain 2 Gold.",
+  "effect_en_blossom": "Open an item store. Items cost 0 to 15 gold. Gain 1 Gold.",
   "conditions_en": "Have enough gold"
  },
  {
@@ -2587,7 +2588,7 @@
   "category": "道具",
   "category_en": "Item",
   "rarity": "黃金",
-  "cost": "3",
+  "cost": "4",
   "round_range": "3-1 ~ 4-1",
   "round_range_en": "3-1 to 4-1",
   "effects": [
@@ -2637,7 +2638,7 @@
   "round_range": "3-1 ~ 4-1",
   "round_range_en": "3-1 to 4-1",
   "effects": [
-   "獲得2件消耗品，能增加永久雙防或生命。",
+   "獲得2件消耗品，能增加永久雙防或生命。（18.3：雙防消耗品 10 ⇒ 8）",
    "升級：獲得3件消耗品，能增加永久雙防或生命。"
   ],
   "notes": [
@@ -2660,7 +2661,7 @@
   "round_range": "2-1 ~ 2-7",
   "round_range_en": "2-1 to 2-7",
   "effects": [
-   "獲得1件消耗品，能增加永久雙防或生命。",
+   "獲得1件消耗品，能增加永久雙防或生命。（18.3：雙防消耗品 10 ⇒ 8）",
    "升級（1）：獲得2件消耗品，能增加永久雙防或生命。"
   ],
   "notes": [
@@ -2730,7 +2731,7 @@
   "round_range": "3-1 ~ 4-1",
   "round_range_en": "3-1 to 4-1",
   "effects": [
-   "獲得2件消耗品，能增加永久物攻或攻速。",
+   "獲得2件消耗品，能增加永久物攻或攻速。（18.3：攻速消耗品 8% ⇒ 6%）",
    "升級（2）：獲得3件消耗品，能增加永久物攻或攻速。"
   ],
   "notes": [
@@ -2753,7 +2754,7 @@
   "round_range": "2-1 ~ 2-7",
   "round_range_en": "2-1 to 2-7",
   "effects": [
-   "獲得1件消耗品，能增加永久物攻或攻速。",
+   "獲得1件消耗品，能增加永久物攻或攻速。（18.3：攻速消耗品 8% ⇒ 6%）",
    "升級：獲得2件消耗品，能增加永久物攻或攻速。"
   ],
   "notes": [
@@ -2961,7 +2962,7 @@
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
-   "獲得3件消耗品，能增加永久雙防或生命。",
+   "獲得3件消耗品，能增加永久雙防或生命。（18.3：雙防消耗品 10 ⇒ 8）",
    "升級：獲得4件消耗品，能增加永久雙防或生命。"
   ],
   "notes": [],
@@ -2982,7 +2983,7 @@
   "round_range": "5-1 ~ 10-1",
   "round_range_en": "5-1 to 10-1",
   "effects": [
-   "獲得3件消耗品，能增加永久物攻或攻速。",
+   "獲得3件消耗品，能增加永久物攻或攻速。（18.3：攻速消耗品 8% ⇒ 6%）",
    "升級：獲得4件消耗品，能增加永久物攻或攻速。"
   ],
   "notes": [],
@@ -3004,7 +3005,7 @@
   "round_range_en": "2-1 to 3-4",
   "effects": [
    "失去4玩家生命。獲得2金錢。",
-   "升級：失去3玩家生命。獲得3金錢。"
+   "升級：失去2玩家生命。獲得2金錢。"
   ],
   "notes": [
    "【刷新條件】玩家生命較高",
@@ -3014,7 +3015,7 @@
   "official_zh_source": true,
   "icon": "t_shopcardsicon18_misc_tier2.png",
   "effect_en_base": "Lose 4 Player Health. Gain 2 Gold.",
-  "effect_en_blossom": "Lose 3 Player Health. Gain 3 Gold.",
+  "effect_en_blossom": "Lose 2 Player Health. Gain 2 Gold.",
   "conditions_en": "Be on high health"
  },
  {
@@ -3162,7 +3163,7 @@
   "round_range": "2-1 ~ 3-4",
   "round_range_en": "2-1 to 3-4",
   "effects": [
-   "你擁有的一個隨機1費單位永久轉變成2費單位。",
+   "你擁有的一個隨機1費單位永久轉變成2費單位。（僅會出現在每個準備階段的第一個神火商店）",
    "升級：你擁有的最高星等1費單位永久轉變成2費單位。"
   ],
   "notes": [
@@ -3186,7 +3187,7 @@
   "round_range": "2-1 ~ 4-1",
   "round_range_en": "2-1 to 4-1",
   "effects": [
-   "你擁有的一個隨機2費單位永久轉變成3費單位。",
+   "你擁有的一個隨機2費單位永久轉變成3費單位。（僅會出現在每個準備階段的第一個神火商店）",
    "升級：我方擁有的最高星等2費單位永久變成3費單位。"
   ],
   "notes": [
@@ -3405,7 +3406,7 @@
   "round_range": "4-2 ~ 5-7",
   "round_range_en": "4-2 to 5-7",
   "effects": [
-   "你擁有的一個隨機4費單位永久轉變成5費單位。",
+   "你擁有的一個隨機4費單位永久轉變成5費單位。（僅會出現在每個準備階段的第一個神火商店）",
    "升級：我方擁有的最高星等4費單位永久變成5費單位。"
   ],
   "notes": [
@@ -3912,7 +3913,7 @@
   "round_range_en": "4-2 to 5-7",
   "effects": [
    "18秒內，你的商店每2秒會免費刷新一次。",
-   "升級：在26秒內，你的商店每2秒免費重抽一次。"
+   "升級：在24秒內，你的商店每2秒免費重抽一次。"
   ],
   "notes": [
    "【備註】要抽牌才拿；可先調好裝備、站位。"
@@ -3921,7 +3922,7 @@
   "official_zh_source": true,
   "icon": "t_shopcardsicon18_shop_tier2.png",
   "effect_en_base": "For 18 seconds, your shop rerolls for free every 2 seconds.",
-  "effect_en_blossom": "For 26 seconds, your shop rerolls for free every 2 seconds.",
+  "effect_en_blossom": "For 24 seconds, your shop rerolls for free every 2 seconds.",
   "conditions_en": ""
  },
  {
